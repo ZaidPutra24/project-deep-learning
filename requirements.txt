@@ -1,36 +1,26 @@
 # ================================================================
-# requirements.txt
+# requirements.txt — NutriBot Kendari
 # ================================================================
-
-# ─── Core NLP & Embedding ───────────────────────────────────────
-sentence-transformers>=2.7.0          # Sentence-BERT untuk embedding semantik
-transformers>=4.40.0                  # HuggingFace Transformers (IndoBERT)
-torch>=2.2.0                         # PyTorch (backend transformers)
-tokenizers>=0.19.0                   # Tokenizer cepat HuggingFace
-
-# ─── Numerical & Vector ─────────────────────────────────────────
-numpy>=1.26.0                        # Array numerik untuk embedding
-scipy>=1.13.0                        # Cosine similarity, statistik
-# faiss-cpu>=1.8.0                     # Vector similarity search (opsional, FAISS)
-
-# ─── LLM API Clients ────────────────────────────────────────────
-# openai>=1.30.0                       # OpenAI GPT API (opsional)
-# groq>=0.9.0                          # Groq API - Llama3/Mixtral (gratis, cepat)
-google-generativeai>=0.5.0           # Google Gemini API (opsional)
-# ollama>=0.2.0                        # Ollama lokal (opsional)
-
-# ─── Web UI ─────────────────────────────────────────────────────
-# gradio>=4.36.0                       # Antarmuka web chatbot
-
-# ─── Data Processing ────────────────────────────────────────────
-pandas>=2.2.0                        # Manipulasi data tabular
-ujson>=5.10.0                        # JSON parsing cepat
-
-# ─── Utilities ──────────────────────────────────────────────────
-python-dotenv>=1.0.0                 # Load environment variables dari .env
-tqdm>=4.66.0                         # Progress bar untuk proses panjang
-pydantic>=2.7.0                      # Validasi data
-
-# ─── Development & Testing ──────────────────────────────────────
-# pytest>=8.2.0                        # Unit testing
-# black>=24.4.0                        # Code formatter
+# PENTING: Jangan tambahkan google-generativeai di sini.
+# google-genai dan google-generativeai BENTROK di namespace "google".
+# generation.py pakai: from google import genai  → butuh google-genai
+# ================================================================
+ 
+# ── Web UI ────────────────────────────────────────────────────────
+streamlit>=1.32.0
+ 
+# ── Google Gemini SDK (API baru) ──────────────────────────────────
+google-genai>=1.0.0
+ 
+# ── Embedding & retrieval ─────────────────────────────────────────
+sentence-transformers>=2.6.0
+transformers>=4.40.0
+torch>=2.2.0
+tokenizers>=0.19.0
+ 
+# ── Numerik ───────────────────────────────────────────────────────
+numpy>=1.24.0
+scipy>=1.13.0
+ 
+# ── Utilitas ──────────────────────────────────────────────────────
+python-dotenv>=1.0.0
