@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# VSCode
+.vscode/
+
+# Temp files
+tempCodeRunnerFile.py
+
+# OS
+.DS_Store
+
+# Environment variables
+.env

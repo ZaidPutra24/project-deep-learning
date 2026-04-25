@@ -1,0 +1,159 @@
+# INVERTED INDEX + INTERSECT POSTINGS LIST
+documents = []
+postings = []
+sorted_postings = []
+inverted_index = {}
+
+# MENU TAMBAH DOKUMEN
+def tambah_dokumen():
+    print("\n=== TAMBAH DOKUMEN ===")
+    kalimat = input("Masukkan isi dokumen : ")
+
+    documents.append(kalimat.lower())
+    print("Dokumen berhasil ditambahkan")
+
+
+# TAMPILKAN SEMUA DOKUMEN
+def munculkan_dokumen():
+    
+    print("\n=== DOKUMEN ===")
+    for idx, doc in enumerate(documents, start=1):
+        print(f"{idx}. {doc}") 
+ 
+# GENERATE POSTINGS
+# (term, docID)
+def generate_postings():
+    global postings
+    postings = []
+
+    for doc_id, doc in enumerate(documents, start=1):
+
+        # split berdasarkan spasi
+        terms = doc.split(" ")
+
+        for term in terms:
+            postings.append((term, doc_id))
+
+    print("\nPOSTINGS:")
+    for p in postings:
+        print(p)
+
+# SORT POSTINGS
+def sort_postings():
+    global sorted_postings
+
+    sorted_postings = sorted(postings)
+
+    print("\nSORTED POSTINGS:")
+    for p in sorted_postings:
+        print(p)
+ 
+# SPLIT KE DICTIONARY + POSTINGS LIST
+def build_inverted_index():
+
+    global inverted_index
+    inverted_index = {}
+
+    for term, doc_id in sorted_postings:
+
+        if term not in inverted_index:
+            inverted_index[term] = []
+
+        if doc_id not in inverted_index[term]:
+            inverted_index[term].append(doc_id)
+
+# TAMPILKAN INVERTED INDEX
+def tampilkan_index():
+
+    build_inverted_index()
+
+    print("\n=== INVERTED INDEX ===")
+
+    for term in inverted_index:
+        print(term, "->", inverted_index[term])
+
+# INTERSECT POSTINGS LIST
+def intersect(list1, list2):
+
+    p1 = 0
+    p2 = 0
+    result = []
+
+    while p1 < len(list1) and p2 < len(list2):
+
+        if list1[p1] == list2[p2]:
+            result.append(list1[p1])
+            p1 += 1
+            p2 += 1
+
+        elif list1[p1] < list2[p2]:
+            p1 += 1
+
+        else:
+            p2 += 1
+
+    return result
+
+# BOOLEAN QUERY AND
+def boolean_query():
+
+    build_inverted_index()
+
+    print("\n=== BOOLEAN QUERY (AND) ===")
+
+    term1 = input("Term 1 : ").lower()
+    term2 = input("Term 2 : ").lower()
+
+    if term1 not in inverted_index or term2 not in inverted_index:
+        print("Term tidak ditemukan")
+        return
+
+    list1 = inverted_index[term1]
+    list2 = inverted_index[term2]
+
+    hasil = intersect(list1, list2)
+
+    print("\nPostings", term1, ":", list1)
+    print("Postings", term2, ":", list2)
+
+    print("INTERSECT RESULT :", hasil)
+
+# MENU UTAMA
+while True:
+
+    print("\n")
+    print("INVERTED INDEX PROGRAM")
+    print("\nMENU:")
+    print("1. Tambah Dokumen")
+    print("2. Tampilkan Dokumen")
+    print("3. Generate Postings")
+    print("4. Sort Postings")
+    print("5. Lihat Inverted Index")
+    print("6. Intersect Postings List (AND)")
+    print("7. Keluar")
+
+    pilihan = input("Pilih menu : ")
+
+    if pilihan == "1":
+        tambah_dokumen()
+
+    elif pilihan == "2":
+        munculkan_dokumen()
+
+    elif pilihan == "3":
+        generate_postings()
+
+    elif pilihan == "4":
+        sort_postings()
+
+    elif pilihan == "5":
+        tampilkan_index()
+
+    elif pilihan == "6":
+        boolean_query()
+
+    elif pilihan == "7":
+        break
+
+    else:
+        print("Menu tidak tersedia")

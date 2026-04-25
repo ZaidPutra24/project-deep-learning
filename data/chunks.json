@@ -1,0 +1,1364 @@
+{
+  "metadata": {
+    "total_chunks": 51,
+    "chunk_size_target": 200,
+    "chunk_overlap": 50,
+    "expand_abbreviations": true
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_0001",
+      "text": "DEFINISI DAN KONSEP DASAR STUNTING\n\nStunting adalah kondisi gagal tumbuh pada anak balita (bayi di bawah lima tahun) akibat kekurangan gizi kronis dan infeksi berulang terutama dalam 1.000 Hari Pertama Kehidupan (Hari Pertama Kehidupan (HPK)). Stunting ditandai dengan panjang atau tinggi badan anak yang berada di bawah minus dua standar deviasi (-2 Standar Deviasi (SD)) dari median standar pertumbuhan anak menurut WHO.\n\nStunting merupakan masalah kesehatan masyarakat yang serius karena berdampak tidak hanya pada pertumbuhan fisik anak tetapi juga pada perkembangan kognitif, kemampuan belajar, dan produktivitas di masa dewasa. Anak stunting memiliki risiko lebih tinggi mengalami penyakit kronis seperti diabetes, hipertensi, dan obesitas saat dewasa.\n\nPengukuran stunting dilakukan dengan membandingkan panjang badan (untuk anak usia 0-23 bulan, diukur terlentang) atau tinggi badan (untuk anak usia 24-59 bulan, diukur berdiri) dengan standar WHO berdasarkan usia dan jenis kelamin anak.\n\nKlasifikasi status stunting berdasarkan z-score tinggi badan menurut umur (Tinggi Badan (TB)/U):\n- Normal: z-score >= -2 Standar Deviasi (SD)\n- Stunting (pendek): z-score -3 Standar Deviasi (SD) hingga < -2 Standar Deviasi (SD)\n- Stunting berat (sangat pendek): z-score < -3 Standar Deviasi (SD)",
+      "section": "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING",
+      "subsection": "Umum",
+      "source_file": "stunting_docs.txt",
+      "char_start": 159,
+      "char_end": 1452,
+      "token_count": 183,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "dampak",
+        "asi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 183,
+        "char_count": 1293,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING | Umum]\nDEFINISI DAN KONSEP DASAR STUNTING\n\nStunting adalah kondisi gagal tumbuh pada anak balita (bayi di bawah lima tahun) akibat kekurangan gizi kronis dan infeksi berulang terutama dalam 1.000 Hari Pertama Kehidupan (Hari Pertama Kehidupan (HPK)). Stunting ditandai dengan panjang atau tinggi badan anak yang berada di bawah minus dua standar deviasi (-2 Standar Deviasi (SD)) dari median standar pertumbuhan anak menurut WHO.\n\nStunting merupakan masalah kesehatan masyarakat yang serius karena berdampak tidak hanya pada pertumbuhan fisik anak tetapi juga pada perkembangan kognitif, kemampuan belajar, dan produktivitas di masa dewasa. Anak stunting memiliki risiko lebih tinggi mengalami penyakit kronis seperti diabetes, hipertensi, dan obesitas saat dewasa.\n\nPengukuran stunting dilakukan dengan membandingkan panjang badan (untuk anak usia 0-23 bulan, diukur terlentang) atau tinggi badan (untuk anak usia 24-59 bulan, diukur berdiri) dengan standar WHO berdasarkan usia dan jenis kelamin anak.\n\nKlasifikasi status stunting berdasarkan z-score tinggi badan menurut umur (Tinggi Badan (TB)/U):\n- Normal: z-score >= -2 Standar Deviasi (SD)\n- Stunting (pendek): z-score -3 Standar Deviasi (SD) hingga < -2 Standar Deviasi (SD)\n- Stunting berat (sangat pendek): z-score < -3 Standar Deviasi (SD)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0002",
+      "text": "usia dan jenis kelamin anak. Klasifikasi status stunting berdasarkan z-score tinggi badan menurut umur (Tinggi Badan (TB)/U): - Normal: z-score >= -2 Standar Deviasi (SD) - Stunting (pendek): z-score -3 Standar Deviasi (SD) hingga < -2 Standar Deviasi (SD) - Stunting berat (sangat pendek): z-score < -3 Standar Deviasi (SD)\n\nStunting secara konseptual merupakan indikator status gizi kronis yang mencerminkan ketidakseimbangan antara kebutuhan dan asupan nutrisi dalam jangka waktu yang panjang (WHO, 2020).\n\nStunting didefinisikan berdasarkan indeks antropometri tinggi badan menurut umur yang dibandingkan dengan standar pertumbuhan internasional yang telah ditetapkan oleh WHO (WHO, 2006).\n\nKonsep stunting berkaitan dengan proses pertumbuhan linear yang terganggu sehingga tinggi badan anak tidak sesuai dengan usianya (UNICEF, 2019).\n\nPengukuran stunting menggunakan pendekatan statistik berupa z-score yang menunjukkan deviasi posisi tinggi badan anak terhadap median populasi rujukan (WHO, 2006).\n\nNilai z-score digunakan untuk menentukan apakah seorang anak termasuk dalam kategori normal, pendek, atau sangat pendek berdasarkan standar pertumbuhan (WHO, 2006).\n\nStunting berbeda dengan wasting dan underweight karena stunting menggambarkan kondisi kekurangan gizi kronis, bukan akut (WHO, 2018).\n\nSecara konsep, stunting merupakan hasil dari gangguan pertumbuhan jangka panjang yang terjadi secara perlahan dan kumulatif (UNICEF, 2019).",
+      "section": "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING",
+      "subsection": "Umum",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 1446,
+      "token_count": 190,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "dampak",
+        "asi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 190,
+        "char_count": 1446,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING | Umum]\nusia dan jenis kelamin anak. Klasifikasi status stunting berdasarkan z-score tinggi badan menurut umur (Tinggi Badan (TB)/U): - Normal: z-score >= -2 Standar Deviasi (SD) - Stunting (pendek): z-score -3 Standar Deviasi (SD) hingga < -2 Standar Deviasi (SD) - Stunting berat (sangat pendek): z-score < -3 Standar Deviasi (SD)\n\nStunting secara konseptual merupakan indikator status gizi kronis yang mencerminkan ketidakseimbangan antara kebutuhan dan asupan nutrisi dalam jangka waktu yang panjang (WHO, 2020).\n\nStunting didefinisikan berdasarkan indeks antropometri tinggi badan menurut umur yang dibandingkan dengan standar pertumbuhan internasional yang telah ditetapkan oleh WHO (WHO, 2006).\n\nKonsep stunting berkaitan dengan proses pertumbuhan linear yang terganggu sehingga tinggi badan anak tidak sesuai dengan usianya (UNICEF, 2019).\n\nPengukuran stunting menggunakan pendekatan statistik berupa z-score yang menunjukkan deviasi posisi tinggi badan anak terhadap median populasi rujukan (WHO, 2006).\n\nNilai z-score digunakan untuk menentukan apakah seorang anak termasuk dalam kategori normal, pendek, atau sangat pendek berdasarkan standar pertumbuhan (WHO, 2006).\n\nStunting berbeda dengan wasting dan underweight karena stunting menggambarkan kondisi kekurangan gizi kronis, bukan akut (WHO, 2018).\n\nSecara konsep, stunting merupakan hasil dari gangguan pertumbuhan jangka panjang yang terjadi secara perlahan dan kumulatif (UNICEF, 2019)."
+      }
+    },
+    {
+      "chunk_id": "chunk_0003",
+      "text": "seorang anak termasuk dalam kategori normal, pendek, atau sangat pendek berdasarkan standar pertumbuhan (WHO, 2006). Stunting berbeda dengan wasting dan underweight karena stunting menggambarkan kondisi kekurangan gizi kronis, bukan akut (WHO, 2018). Secara konsep, stunting merupakan hasil dari gangguan pertumbuhan jangka panjang yang terjadi secara perlahan dan kumulatif (UNICEF, 2019).\n\nStandar pertumbuhan WHO digunakan sebagai acuan global untuk menilai status stunting karena didasarkan pada populasi anak yang tumbuh dalam kondisi optimal (WHO, 2006).\n\nKonsep dasar stunting juga mencakup pemahaman bahwa pertumbuhan anak dipengaruhi oleh interaksi antara faktor biologis dan lingkungan dalam jangka waktu yang panjang (WHO, 2020).\n\nStunting merupakan salah satu indikator utama dalam penilaian status gizi anak yang digunakan secara luas dalam survei kesehatan dan penelitian epidemiologi (World Bank, 2020).\n\nPenggunaan indikator tinggi badan menurut umur dalam stunting memungkinkan identifikasi masalah pertumbuhan yang bersifat kronis sejak usia dini (WHO, 2006).\n\nSecara terminologi, stunting mengacu pada kondisi “pendek untuk usia” yang menunjukkan adanya hambatan pertumbuhan linear pada anak (UNICEF, 2019).\n\nKonsep stunting juga berkaitan dengan standar deviasi sebagai ukuran statistik untuk menilai variasi pertumbuhan anak terhadap populasi referensi (WHO, 2006).",
+      "section": "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING",
+      "subsection": "Umum",
+      "source_file": "stunting_docs.txt",
+      "char_start": 2182,
+      "char_end": 3568,
+      "token_count": 180,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "dampak",
+        "asi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 180,
+        "char_count": 1386,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING | Umum]\nseorang anak termasuk dalam kategori normal, pendek, atau sangat pendek berdasarkan standar pertumbuhan (WHO, 2006). Stunting berbeda dengan wasting dan underweight karena stunting menggambarkan kondisi kekurangan gizi kronis, bukan akut (WHO, 2018). Secara konsep, stunting merupakan hasil dari gangguan pertumbuhan jangka panjang yang terjadi secara perlahan dan kumulatif (UNICEF, 2019).\n\nStandar pertumbuhan WHO digunakan sebagai acuan global untuk menilai status stunting karena didasarkan pada populasi anak yang tumbuh dalam kondisi optimal (WHO, 2006).\n\nKonsep dasar stunting juga mencakup pemahaman bahwa pertumbuhan anak dipengaruhi oleh interaksi antara faktor biologis dan lingkungan dalam jangka waktu yang panjang (WHO, 2020).\n\nStunting merupakan salah satu indikator utama dalam penilaian status gizi anak yang digunakan secara luas dalam survei kesehatan dan penelitian epidemiologi (World Bank, 2020).\n\nPenggunaan indikator tinggi badan menurut umur dalam stunting memungkinkan identifikasi masalah pertumbuhan yang bersifat kronis sejak usia dini (WHO, 2006).\n\nSecara terminologi, stunting mengacu pada kondisi “pendek untuk usia” yang menunjukkan adanya hambatan pertumbuhan linear pada anak (UNICEF, 2019).\n\nKonsep stunting juga berkaitan dengan standar deviasi sebagai ukuran statistik untuk menilai variasi pertumbuhan anak terhadap populasi referensi (WHO, 2006)."
+      }
+    },
+    {
+      "chunk_id": "chunk_0004",
+      "text": "identifikasi masalah pertumbuhan yang bersifat kronis sejak usia dini (WHO, 2006). Secara terminologi, stunting mengacu pada kondisi “pendek untuk usia” yang menunjukkan adanya hambatan pertumbuhan linear pada anak (UNICEF, 2019). Konsep stunting juga berkaitan dengan standar deviasi sebagai ukuran statistik untuk menilai variasi pertumbuhan anak terhadap populasi referensi (WHO, 2006).\n\nPenilaian stunting harus dilakukan secara akurat dengan menggunakan alat ukur yang sesuai serta prosedur pengukuran yang standar untuk menghindari kesalahan interpretasi (WHO, 2008).",
+      "section": "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING",
+      "subsection": "Umum",
+      "source_file": "stunting_docs.txt",
+      "char_start": 3179,
+      "char_end": 3752,
+      "token_count": 73,
+      "keywords": [
+        "stunting",
+        "balita",
+        "asi"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 73,
+        "char_count": 573,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING | Umum]\nidentifikasi masalah pertumbuhan yang bersifat kronis sejak usia dini (WHO, 2006). Secara terminologi, stunting mengacu pada kondisi “pendek untuk usia” yang menunjukkan adanya hambatan pertumbuhan linear pada anak (UNICEF, 2019). Konsep stunting juga berkaitan dengan standar deviasi sebagai ukuran statistik untuk menilai variasi pertumbuhan anak terhadap populasi referensi (WHO, 2006).\n\nPenilaian stunting harus dilakukan secara akurat dengan menggunakan alat ukur yang sesuai serta prosedur pengukuran yang standar untuk menghindari kesalahan interpretasi (WHO, 2008)."
+      }
+    },
+    {
+      "chunk_id": "chunk_0005",
+      "text": "PREVALENSI STUNTING DI INDONESIA DAN KOTA KENDARI\n\nBerdasarkan hasil Survei Status Gizi Indonesia (SSGI) tahun 2022, prevalensi stunting nasional di Indonesia adalah 21,6 %. Angka ini mengalami penurunan dari 24,4 % pada tahun 2021. Pemerintah Indonesia menargetkan penurunan prevalensi stunting menjadi 14 % pada tahun 2024 sesuai Perpres Nomor 72 Tahun 2021.\n\nDi Provinsi Sulawesi Tenggara, prevalensi stunting pada tahun 2022 mencapai 27,7 %, lebih tinggi dari rata-rata nasional. Kota Kendari sebagai ibu kota provinsi memiliki prevalensi stunting sekitar 23,8 % berdasarkan data e-PPGBM (elektronik Pencatatan dan Pelaporan Gizi Berbasis Masyarakat) tahun 2022.\n\nKecamatan dengan prevalensi stunting tertinggi di Kota Kendari meliputi:\n1. Kecamatan Kendari Barat: 26,4 %\n2. Kecamatan Puuwatu: 25,8 %\n3. Kecamatan Kadia: 24,9 %\n4. Kecamatan Abeli: 24,1 %\n5. Kecamatan Baruga: 23,5 %\n\nFaktor-faktor yang berkontribusi terhadap tingginya angka stunting di Kota Kendari meliputi: kemiskinan dan ketahanan pangan keluarga, rendahnya akses dan kualitas layanan kesehatan di beberapa wilayah, sanitasi dan air bersih yang belum merata, serta pengetahuan ibu tentang gizi yang masih rendah.",
+      "section": "SEKSI 2: PREVALENSI STUNTING DI INDONESIA DAN KOTA KENDARI",
+      "subsection": "Umum",
+      "source_file": "stunting_docs.txt",
+      "char_start": 3766,
+      "char_end": 4953,
+      "token_count": 168,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "asi",
+        "intervensi_sensitif",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 168,
+        "char_count": 1187,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 2: PREVALENSI STUNTING DI INDONESIA DAN KOTA KENDARI | Umum]\nPREVALENSI STUNTING DI INDONESIA DAN KOTA KENDARI\n\nBerdasarkan hasil Survei Status Gizi Indonesia (SSGI) tahun 2022, prevalensi stunting nasional di Indonesia adalah 21,6 %. Angka ini mengalami penurunan dari 24,4 % pada tahun 2021. Pemerintah Indonesia menargetkan penurunan prevalensi stunting menjadi 14 % pada tahun 2024 sesuai Perpres Nomor 72 Tahun 2021.\n\nDi Provinsi Sulawesi Tenggara, prevalensi stunting pada tahun 2022 mencapai 27,7 %, lebih tinggi dari rata-rata nasional. Kota Kendari sebagai ibu kota provinsi memiliki prevalensi stunting sekitar 23,8 % berdasarkan data e-PPGBM (elektronik Pencatatan dan Pelaporan Gizi Berbasis Masyarakat) tahun 2022.\n\nKecamatan dengan prevalensi stunting tertinggi di Kota Kendari meliputi:\n1. Kecamatan Kendari Barat: 26,4 %\n2. Kecamatan Puuwatu: 25,8 %\n3. Kecamatan Kadia: 24,9 %\n4. Kecamatan Abeli: 24,1 %\n5. Kecamatan Baruga: 23,5 %\n\nFaktor-faktor yang berkontribusi terhadap tingginya angka stunting di Kota Kendari meliputi: kemiskinan dan ketahanan pangan keluarga, rendahnya akses dan kualitas layanan kesehatan di beberapa wilayah, sanitasi dan air bersih yang belum merata, serta pengetahuan ibu tentang gizi yang masih rendah."
+      }
+    },
+    {
+      "chunk_id": "chunk_0006",
+      "text": "1. Status gizi ibu pra-kehamilan\n - Indeks Massa Tubuh (Indeks Massa Tubuh (IMT)) ibu < 18,5 kg/m² (kurus/underweight)\n - Lingkar Lengan Atas (Lingkar Lengan Atas (LiLA)) ibu < 23,5 cm (berisiko Kurang Energi Kronis/Kurang Energi Kronis (KEK))\n - Anemia: kadar hemoglobin < 11 g/dL sebelum kehamilan\n\n2. Usia ibu\n - Usia terlalu muda (< 20 tahun) saat hamil pertama berisiko lebih tinggi\n - Usia terlalu tua (> 35 tahun) juga meningkatkan risiko komplikasi kehamilan\n\n3. Jarak kehamilan\n - Jarak kehamilan < 2 tahun meningkatkan risiko stunting pada anak berikutnya\n - Jarak ideal antar kehamilan adalah 2-3 tahun\n\n4. Riwayat kesehatan ibu\n - Riwayat penyakit kronis (diabetes, hipertensi, infeksi)\n - Riwayat melahirkan bayi stunting atau Berat Badan Lahir Rendah (BBLR) sebelumnya\n - Riwayat keguguran berulang",
+      "section": "SEKSI 3: FAKTOR RISIKO STUNTING",
+      "subsection": "A. FAKTOR RISIKO PADA IBU SEBELUM KEHAMILAN",
+      "source_file": "stunting_docs.txt",
+      "char_start": 5034,
+      "char_end": 5846,
+      "token_count": 124,
+      "keywords": [
+        "gizi_buruk",
+        "stunting",
+        "gizi",
+        "asi",
+        "dampak",
+        "ibu_hamil",
+        "anemia",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 124,
+        "char_count": 812,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 3: FAKTOR RISIKO STUNTING | A. FAKTOR RISIKO PADA IBU SEBELUM KEHAMILAN]\n1. Status gizi ibu pra-kehamilan\n - Indeks Massa Tubuh (Indeks Massa Tubuh (IMT)) ibu < 18,5 kg/m² (kurus/underweight)\n - Lingkar Lengan Atas (Lingkar Lengan Atas (LiLA)) ibu < 23,5 cm (berisiko Kurang Energi Kronis/Kurang Energi Kronis (KEK))\n - Anemia: kadar hemoglobin < 11 g/dL sebelum kehamilan\n\n2. Usia ibu\n - Usia terlalu muda (< 20 tahun) saat hamil pertama berisiko lebih tinggi\n - Usia terlalu tua (> 35 tahun) juga meningkatkan risiko komplikasi kehamilan\n\n3. Jarak kehamilan\n - Jarak kehamilan < 2 tahun meningkatkan risiko stunting pada anak berikutnya\n - Jarak ideal antar kehamilan adalah 2-3 tahun\n\n4. Riwayat kesehatan ibu\n - Riwayat penyakit kronis (diabetes, hipertensi, infeksi)\n - Riwayat melahirkan bayi stunting atau Berat Badan Lahir Rendah (BBLR) sebelumnya\n - Riwayat keguguran berulang"
+      }
+    },
+    {
+      "chunk_id": "chunk_0007",
+      "text": "1. Gizi ibu selama hamil\n - Tidak mengonsumsi Tablet Tambah Darah (Tablet Tambah Darah (TTD)) secara rutin (min. 90 tablet)\n - Asupan energi dan protein tidak mencukupi\n - Defisiensi zat besi, folat, zinc, dan yodium\n - Kenaikan berat badan selama hamil tidak sesuai rekomendasi\n\n2. Pemeriksaan kehamilan (Antenatal Care (ANC))\n - Tidak melakukan Antenatal Care (ANC) minimal 6 kali (standar Antenatal Care (ANC) terpadu K1-K6)\n - Antenatal Care (ANC) pertama dilakukan setelah trimester pertama (K1 tidak murni)\n - Tidak mendapat imunisasi Tetanus Toxoid (TT)\n\n3. Infeksi selama kehamilan\n - Infeksi saluran kemih\n - Malaria (di daerah endemis)\n - TORCH (Toxoplasma, Rubella, Cytomegalovirus, Herpes)\n - COVID-19\n\n4. Kondisi kehamilan\n - Preeklampsia/eklampsia\n - Plasenta previa\n - Kehamilan kembar\n - Hipertensi dalam kehamilan",
+      "section": "SEKSI 3: FAKTOR RISIKO STUNTING",
+      "subsection": "B. FAKTOR RISIKO SELAMA KEHAMILAN",
+      "source_file": "stunting_docs.txt",
+      "char_start": 5883,
+      "char_end": 6713,
+      "token_count": 120,
+      "keywords": [
+        "asi",
+        "gizi",
+        "ibu_hamil",
+        "intervensi_spesifik",
+        "gizi_ibu_hamil"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 120,
+        "char_count": 830,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 3: FAKTOR RISIKO STUNTING | B. FAKTOR RISIKO SELAMA KEHAMILAN]\n1. Gizi ibu selama hamil\n - Tidak mengonsumsi Tablet Tambah Darah (Tablet Tambah Darah (TTD)) secara rutin (min. 90 tablet)\n - Asupan energi dan protein tidak mencukupi\n - Defisiensi zat besi, folat, zinc, dan yodium\n - Kenaikan berat badan selama hamil tidak sesuai rekomendasi\n\n2. Pemeriksaan kehamilan (Antenatal Care (ANC))\n - Tidak melakukan Antenatal Care (ANC) minimal 6 kali (standar Antenatal Care (ANC) terpadu K1-K6)\n - Antenatal Care (ANC) pertama dilakukan setelah trimester pertama (K1 tidak murni)\n - Tidak mendapat imunisasi Tetanus Toxoid (TT)\n\n3. Infeksi selama kehamilan\n - Infeksi saluran kemih\n - Malaria (di daerah endemis)\n - TORCH (Toxoplasma, Rubella, Cytomegalovirus, Herpes)\n - COVID-19\n\n4. Kondisi kehamilan\n - Preeklampsia/eklampsia\n - Plasenta previa\n - Kehamilan kembar\n - Hipertensi dalam kehamilan"
+      }
+    },
+    {
+      "chunk_id": "chunk_0008",
+      "text": "1. Berat Badan Lahir Rendah (Berat Badan Lahir Rendah (BBLR))\n - Bayi lahir dengan berat badan < 2.500 gram\n - Berat Badan Lahir Rendah (BBLR) adalah faktor risiko terkuat stunting pada anak\n - Bayi Berat Badan Lahir Rendah (BBLR) 2-3 kali lebih berisiko mengalami stunting\n\n2. Panjang badan lahir\n - Panjang badan lahir < 48 cm berisiko stunting\n - Panjang badan lahir normal: 48-52 cm\n\n3. Usia gestasi\n - Bayi prematur (lahir < 37 minggu) berisiko lebih tinggi\n - Bayi post-matur (lahir > 42 minggu) juga memerlukan perhatian\n\n4. Penilaian APGAR\n - Skor APGAR < 7 pada menit ke-5 menunjukkan distress neonatal",
+      "section": "SEKSI 3: FAKTOR RISIKO STUNTING",
+      "subsection": "C. FAKTOR RISIKO PADA BAYI BARU LAHIR",
+      "source_file": "stunting_docs.txt",
+      "char_start": 6754,
+      "char_end": 7365,
+      "token_count": 102,
+      "keywords": [
+        "stunting",
+        "balita",
+        "asi"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 102,
+        "char_count": 611,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 3: FAKTOR RISIKO STUNTING | C. FAKTOR RISIKO PADA BAYI BARU LAHIR]\n1. Berat Badan Lahir Rendah (Berat Badan Lahir Rendah (BBLR))\n - Bayi lahir dengan berat badan < 2.500 gram\n - Berat Badan Lahir Rendah (BBLR) adalah faktor risiko terkuat stunting pada anak\n - Bayi Berat Badan Lahir Rendah (BBLR) 2-3 kali lebih berisiko mengalami stunting\n\n2. Panjang badan lahir\n - Panjang badan lahir < 48 cm berisiko stunting\n - Panjang badan lahir normal: 48-52 cm\n\n3. Usia gestasi\n - Bayi prematur (lahir < 37 minggu) berisiko lebih tinggi\n - Bayi post-matur (lahir > 42 minggu) juga memerlukan perhatian\n\n4. Penilaian APGAR\n - Skor APGAR < 7 pada menit ke-5 menunjukkan distress neonatal"
+      }
+    },
+    {
+      "chunk_id": "chunk_0009",
+      "text": "1. Praktik pemberian makan\n - Tidak mendapat Air Susu Ibu (ASI) eksklusif selama 6 bulan pertama\n - Air Susu Ibu (ASI) pertama (kolostrum) tidak diberikan atau dibuang\n - Inisiasi Menyusu Dini (Inisiasi Menyusu Dini (IMD)) tidak dilakukan\n - Makanan Pendamping ASI (MPASI) diberikan terlalu dini (< 6 bulan) atau terlambat (> 6 bulan)\n - Kualitas dan kuantitas Makanan Pendamping ASI (MPASI) tidak memadai\n\n2. Status imunisasi\n - Imunisasi dasar tidak lengkap\n - Keterlambatan pemberian imunisasi\n\n3. Penyakit infeksi berulang\n - Diare berulang (≥ 3 kali/tahun)\n - Infeksi Saluran Pernapasan Akut (ISPA) berulang\n - Infeksi cacing usus\n - Giardiasis\n\n4. Pemantauan pertumbuhan\n - Tidak rutin menimbang berat badan di Posyandu (< 8 kali/tahun)\n - Tidak mendapat Vitamin A dosis tinggi setiap 6 bulan\n - Tidak mendapat imunisasi campak/MR",
+      "section": "SEKSI 3: FAKTOR RISIKO STUNTING",
+      "subsection": "D. FAKTOR RISIKO PADA BAYI DAN BALITA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 7406,
+      "char_end": 8242,
+      "token_count": 127,
+      "keywords": [
+        "asi",
+        "mpasi",
+        "posyandu",
+        "intervensi_spesifik"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 127,
+        "char_count": 836,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 3: FAKTOR RISIKO STUNTING | D. FAKTOR RISIKO PADA BAYI DAN BALITA]\n1. Praktik pemberian makan\n - Tidak mendapat Air Susu Ibu (ASI) eksklusif selama 6 bulan pertama\n - Air Susu Ibu (ASI) pertama (kolostrum) tidak diberikan atau dibuang\n - Inisiasi Menyusu Dini (Inisiasi Menyusu Dini (IMD)) tidak dilakukan\n - Makanan Pendamping ASI (MPASI) diberikan terlalu dini (< 6 bulan) atau terlambat (> 6 bulan)\n - Kualitas dan kuantitas Makanan Pendamping ASI (MPASI) tidak memadai\n\n2. Status imunisasi\n - Imunisasi dasar tidak lengkap\n - Keterlambatan pemberian imunisasi\n\n3. Penyakit infeksi berulang\n - Diare berulang (≥ 3 kali/tahun)\n - Infeksi Saluran Pernapasan Akut (ISPA) berulang\n - Infeksi cacing usus\n - Giardiasis\n\n4. Pemantauan pertumbuhan\n - Tidak rutin menimbang berat badan di Posyandu (< 8 kali/tahun)\n - Tidak mendapat Vitamin A dosis tinggi setiap 6 bulan\n - Tidak mendapat imunisasi campak/MR"
+      }
+    },
+    {
+      "chunk_id": "chunk_0010",
+      "text": "1. Sanitasi dan air bersih\n - Tidak memiliki jamban sehat (Buang Air Besar (BAB) sembarangan)\n - Sumber air minum tidak bersih/aman\n - Rumah tidak memenuhi syarat kesehatan (ventilasi, pencahayaan)\n - Kepadatan hunian tinggi\n\n2. Sosial-ekonomi\n - Pendapatan keluarga di bawah garis kemiskinan\n - Kerawanan pangan keluarga\n - Ibu berpendidikan rendah (tidak tamat Standar Deviasi (SD)/SMP)\n - Ayah tidak bekerja/pengangguran\n\n3. Akses layanan kesehatan\n - Tempat tinggal jauh dari fasilitas kesehatan\n - Tidak memiliki Jaminan Kesehatan Nasional (JKN)/BPJS Kesehatan\n - Pengetahuan tentang gizi dan kesehatan anak rendah",
+      "section": "SEKSI 3: FAKTOR RISIKO STUNTING",
+      "subsection": "E. FAKTOR SOSIAL-EKONOMI DAN LINGKUNGAN",
+      "source_file": "stunting_docs.txt",
+      "char_start": 8285,
+      "char_end": 8904,
+      "token_count": 86,
+      "keywords": [
+        "asi",
+        "gizi",
+        "balita",
+        "intervensi_sensitif"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 86,
+        "char_count": 619,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 3: FAKTOR RISIKO STUNTING | E. FAKTOR SOSIAL-EKONOMI DAN LINGKUNGAN]\n1. Sanitasi dan air bersih\n - Tidak memiliki jamban sehat (Buang Air Besar (BAB) sembarangan)\n - Sumber air minum tidak bersih/aman\n - Rumah tidak memenuhi syarat kesehatan (ventilasi, pencahayaan)\n - Kepadatan hunian tinggi\n\n2. Sosial-ekonomi\n - Pendapatan keluarga di bawah garis kemiskinan\n - Kerawanan pangan keluarga\n - Ibu berpendidikan rendah (tidak tamat Standar Deviasi (SD)/SMP)\n - Ayah tidak bekerja/pengangguran\n\n3. Akses layanan kesehatan\n - Tempat tinggal jauh dari fasilitas kesehatan\n - Tidak memiliki Jaminan Kesehatan Nasional (JKN)/BPJS Kesehatan\n - Pengetahuan tentang gizi dan kesehatan anak rendah"
+      }
+    },
+    {
+      "chunk_id": "chunk_0011",
+      "text": "1. Gangguan perkembangan otak\n - Neuron otak yang tidak berkembang optimal\n - Penurunan kemampuan kognitif dan konsentrasi\n - Keterlambatan perkembangan motorik (duduk, berjalan, berbicara)\n\n2. Gangguan sistem imun\n - Anak lebih rentan terhadap infeksi\n - Proses penyembuhan penyakit lebih lama\n - Risiko kematian pada anak sakit lebih tinggi\n\n3. Gangguan metabolisme\n - Hipoglikemia (kadar gula darah rendah)\n - Hipotermia (suhu tubuh rendah)\n - Gangguan elektrolit",
+      "section": "SEKSI 4: DAMPAK STUNTING",
+      "subsection": "A. DAMPAK JANGKA PENDEK",
+      "source_file": "stunting_docs.txt",
+      "char_start": 8958,
+      "char_end": 9424,
+      "token_count": 65,
+      "keywords": [
+        "asi",
+        "dampak",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 65,
+        "char_count": 466,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 4: DAMPAK STUNTING | A. DAMPAK JANGKA PENDEK]\n1. Gangguan perkembangan otak\n - Neuron otak yang tidak berkembang optimal\n - Penurunan kemampuan kognitif dan konsentrasi\n - Keterlambatan perkembangan motorik (duduk, berjalan, berbicara)\n\n2. Gangguan sistem imun\n - Anak lebih rentan terhadap infeksi\n - Proses penyembuhan penyakit lebih lama\n - Risiko kematian pada anak sakit lebih tinggi\n\n3. Gangguan metabolisme\n - Hipoglikemia (kadar gula darah rendah)\n - Hipotermia (suhu tubuh rendah)\n - Gangguan elektrolit"
+      }
+    },
+    {
+      "chunk_id": "chunk_0012",
+      "text": "1. Pendidikan dan kecerdasan\n - Nilai akademis yang lebih rendah\n - Risiko putus sekolah lebih tinggi\n - IQ rata-rata 5-11 poin lebih rendah dari anak normal\n\n2. Produktivitas ekonomi\n - Penghasilan dewasa 20 % lebih rendah dari yang tidak stunting\n - Produktivitas kerja berkurang\n - Siklus kemiskinan antargenerasi\n\n3. Risiko penyakit kronis saat dewasa (double burden of malnutrition)\n - Diabetes mellitus tipe 2\n - Hipertensi\n - Penyakit jantung koroner\n - Obesitas\n - Sindrom metabolik\n\n4. Masalah reproduksi pada perempuan\n - Panggul sempit meningkatkan risiko persalinan operatif\n - Risiko melahirkan bayi Berat Badan Lahir Rendah (BBLR) lebih tinggi\n - Kapasitas kerja saat hamil berkurang",
+      "section": "SEKSI 4: DAMPAK STUNTING",
+      "subsection": "B. DAMPAK JANGKA PANJANG",
+      "source_file": "stunting_docs.txt",
+      "char_start": 9452,
+      "char_end": 10149,
+      "token_count": 103,
+      "keywords": [
+        "stunting",
+        "dampak",
+        "asi",
+        "ibu_hamil",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 103,
+        "char_count": 697,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 4: DAMPAK STUNTING | B. DAMPAK JANGKA PANJANG]\n1. Pendidikan dan kecerdasan\n - Nilai akademis yang lebih rendah\n - Risiko putus sekolah lebih tinggi\n - IQ rata-rata 5-11 poin lebih rendah dari anak normal\n\n2. Produktivitas ekonomi\n - Penghasilan dewasa 20 % lebih rendah dari yang tidak stunting\n - Produktivitas kerja berkurang\n - Siklus kemiskinan antargenerasi\n\n3. Risiko penyakit kronis saat dewasa (double burden of malnutrition)\n - Diabetes mellitus tipe 2\n - Hipertensi\n - Penyakit jantung koroner\n - Obesitas\n - Sindrom metabolik\n\n4. Masalah reproduksi pada perempuan\n - Panggul sempit meningkatkan risiko persalinan operatif\n - Risiko melahirkan bayi Berat Badan Lahir Rendah (BBLR) lebih tinggi\n - Kapasitas kerja saat hamil berkurang"
+      }
+    },
+    {
+      "chunk_id": "chunk_0013",
+      "text": "1. Suplementasi Tablet Tambah Darah (Tablet Tambah Darah (TTD))\n - Diberikan sejak awal kehamilan (idealnya sebelum kehamilan)\n - Dosis: 1 tablet/hari mengandung 60 mg elemental besi + 400 mcg asam folat\n - Diminum minimal 90 tablet selama kehamilan\n - Diminum malam sebelum tidur untuk mengurangi efek samping mual\n - Jangan diminum bersamaan dengan teh, kopi, atau antasida\n - Diminum dengan air putih atau jus jeruk (meningkatkan absorpsi)\n\n2. Pemeriksaan Kehamilan (Antenatal Care (ANC) Terpadu)\n - K1 Murni: Antenatal Care (ANC) pertama dilakukan sebelum 12 minggu kehamilan\n - Standar minimal: 6 kali Antenatal Care (ANC) (2x trimester I, 1x trimester II, 3x trimester III)\n - Antenatal Care (ANC) terpadu meliputi: pengukuran Tinggi Badan (TB), Berat Badan (BB), Lingkar Lengan Atas (LiLA), tekanan darah, pemeriksaan laboratorium, TT, konseling\n - Pemeriksaan USG minimal 3 kali: trimester I, II, dan III\n\n3. Makanan Tambahan (Pemberian Makanan Tambahan (PMT)) Ibu Hamil\n - Diperuntukkan bagi ibu hamil Kurang Energi Kronis (KEK) (Lingkar Lengan Atas (LiLA) < 23,5 cm)\n - Berupa biskuit MP-Air Susu Ibu (ASI) atau makanan lokal bergizi\n - Diberikan 90 hari selama kehamilan",
+      "section": "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI",
+      "subsection": "A. INTERVENSI PADA IBU HAMIL",
+      "source_file": "stunting_docs.txt",
+      "char_start": 10239,
+      "char_end": 11420,
+      "token_count": 179,
+      "keywords": [
+        "asi",
+        "gizi",
+        "ibu_hamil",
+        "intervensi_spesifik",
+        "gizi_ibu_hamil"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 179,
+        "char_count": 1181,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI | A. INTERVENSI PADA IBU HAMIL]\n1. Suplementasi Tablet Tambah Darah (Tablet Tambah Darah (TTD))\n - Diberikan sejak awal kehamilan (idealnya sebelum kehamilan)\n - Dosis: 1 tablet/hari mengandung 60 mg elemental besi + 400 mcg asam folat\n - Diminum minimal 90 tablet selama kehamilan\n - Diminum malam sebelum tidur untuk mengurangi efek samping mual\n - Jangan diminum bersamaan dengan teh, kopi, atau antasida\n - Diminum dengan air putih atau jus jeruk (meningkatkan absorpsi)\n\n2. Pemeriksaan Kehamilan (Antenatal Care (ANC) Terpadu)\n - K1 Murni: Antenatal Care (ANC) pertama dilakukan sebelum 12 minggu kehamilan\n - Standar minimal: 6 kali Antenatal Care (ANC) (2x trimester I, 1x trimester II, 3x trimester III)\n - Antenatal Care (ANC) terpadu meliputi: pengukuran Tinggi Badan (TB), Berat Badan (BB), Lingkar Lengan Atas (LiLA), tekanan darah, pemeriksaan laboratorium, TT, konseling\n - Pemeriksaan USG minimal 3 kali: trimester I, II, dan III\n\n3. Makanan Tambahan (Pemberian Makanan Tambahan (PMT)) Ibu Hamil\n - Diperuntukkan bagi ibu hamil Kurang Energi Kronis (KEK) (Lingkar Lengan Atas (LiLA) < 23,5 cm)\n - Berupa biskuit MP-Air Susu Ibu (ASI) atau makanan lokal bergizi\n - Diberikan 90 hari selama kehamilan"
+      }
+    },
+    {
+      "chunk_id": "chunk_0014",
+      "text": "minimal 3 kali: trimester I, II, dan III 3. Makanan Tambahan (Pemberian Makanan Tambahan (PMT)) Ibu Hamil - Diperuntukkan bagi ibu hamil Kurang Energi Kronis (KEK) (Lingkar Lengan Atas (LiLA) < 23,5 cm) - Berupa biskuit MP-Air Susu Ibu (ASI) atau makanan lokal bergizi - Diberikan 90 hari selama kehamilan\n\n4. Konseling Gizi Ibu Hamil\n - Peningkatan konsumsi protein hewani (ikan, daging, telur, susu)\n - Konsumsi sayuran hijau dan buah-buahan berwarna\n - Pemenuhan kebutuhan karbohidrat kompleks\n - Menghindari pantangan makanan yang tidak berdasar\n\n5. Pencegahan dan Penanganan Anemia\n - Skrining kadar Hemoglobin (Hb) pada setiap kunjungan Antenatal Care (ANC)\n - Terapi besi untuk anemia sedang-berat\n - Edukasi tentang makanan kaya zat besi dan pola makan sehat",
+      "section": "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI",
+      "subsection": "A. INTERVENSI PADA IBU HAMIL",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 766,
+      "token_count": 116,
+      "keywords": [
+        "asi",
+        "gizi",
+        "ibu_hamil",
+        "anemia",
+        "gizi_ibu_hamil"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 116,
+        "char_count": 766,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI | A. INTERVENSI PADA IBU HAMIL]\nminimal 3 kali: trimester I, II, dan III 3. Makanan Tambahan (Pemberian Makanan Tambahan (PMT)) Ibu Hamil - Diperuntukkan bagi ibu hamil Kurang Energi Kronis (KEK) (Lingkar Lengan Atas (LiLA) < 23,5 cm) - Berupa biskuit MP-Air Susu Ibu (ASI) atau makanan lokal bergizi - Diberikan 90 hari selama kehamilan\n\n4. Konseling Gizi Ibu Hamil\n - Peningkatan konsumsi protein hewani (ikan, daging, telur, susu)\n - Konsumsi sayuran hijau dan buah-buahan berwarna\n - Pemenuhan kebutuhan karbohidrat kompleks\n - Menghindari pantangan makanan yang tidak berdasar\n\n5. Pencegahan dan Penanganan Anemia\n - Skrining kadar Hemoglobin (Hb) pada setiap kunjungan Antenatal Care (ANC)\n - Terapi besi untuk anemia sedang-berat\n - Edukasi tentang makanan kaya zat besi dan pola makan sehat"
+      }
+    },
+    {
+      "chunk_id": "chunk_0015",
+      "text": "1. Inisiasi Menyusu Dini (Inisiasi Menyusu Dini (IMD))\n - Dilakukan segera setelah lahir (dalam 1 jam pertama)\n - Bayi diletakkan di dada/perut ibu untuk mencari puting sendiri\n - Kolostrum (susu pertama berwarna kuning) sangat penting untuk imunitas bayi\n - Jangan buang kolostrum\n\n2. Air Susu Ibu (ASI) Eksklusif\n - Pemberian Air Susu Ibu (ASI) saja tanpa makanan/minuman lain (termasuk air putih) hingga usia 6 bulan\n - Air Susu Ibu (ASI) mengandung semua nutrisi yang dibutuhkan bayi usia 0-6 bulan\n - Frekuensi menyusu: on demand (sesering mungkin, minimal 8-12 kali/24 jam)\n - Air Susu Ibu (ASI) dapat diteruskan hingga usia 2 tahun bersamaan dengan Makanan Pendamping ASI (MPASI)",
+      "section": "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI",
+      "subsection": "B. INTERVENSI PADA BAYI DAN BALITA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 11919,
+      "char_end": 12605,
+      "token_count": 107,
+      "keywords": [
+        "asi",
+        "gizi",
+        "mpasi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 107,
+        "char_count": 686,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI | B. INTERVENSI PADA BAYI DAN BALITA]\n1. Inisiasi Menyusu Dini (Inisiasi Menyusu Dini (IMD))\n - Dilakukan segera setelah lahir (dalam 1 jam pertama)\n - Bayi diletakkan di dada/perut ibu untuk mencari puting sendiri\n - Kolostrum (susu pertama berwarna kuning) sangat penting untuk imunitas bayi\n - Jangan buang kolostrum\n\n2. Air Susu Ibu (ASI) Eksklusif\n - Pemberian Air Susu Ibu (ASI) saja tanpa makanan/minuman lain (termasuk air putih) hingga usia 6 bulan\n - Air Susu Ibu (ASI) mengandung semua nutrisi yang dibutuhkan bayi usia 0-6 bulan\n - Frekuensi menyusu: on demand (sesering mungkin, minimal 8-12 kali/24 jam)\n - Air Susu Ibu (ASI) dapat diteruskan hingga usia 2 tahun bersamaan dengan Makanan Pendamping ASI (MPASI)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0016",
+      "text": "lain (termasuk air putih) hingga usia 6 bulan - Air Susu Ibu (ASI) mengandung semua nutrisi yang dibutuhkan bayi usia 0-6 bulan - Frekuensi menyusu: on demand (sesering mungkin, minimal 8-12 kali/24 jam) - Air Susu Ibu (ASI) dapat diteruskan hingga usia 2 tahun bersamaan dengan Makanan Pendamping ASI (MPASI)\n\n3. Makanan Pendamping Air Susu Ibu (ASI) (Makanan Pendamping ASI (MPASI))\n - Dimulai tepat saat usia 6 bulan (tidak lebih awal, tidak lebih lambat)\n - Prinsip Makanan Pendamping ASI (MPASI) yang tepat: tepat waktu, tepat kandungan gizi, tepat konsistensi, tepat jumlah, tepat cara pemberian\n - Dimulai dari tekstur lembut (bubur saring) kemudian ditingkatkan sesuai usia\n - Usia 6-8 bulan: 2-3 kali makan utama + 1-2 kali snack\n - Usia 9-11 bulan: 3-4 kali makan utama + 1-2 kali snack\n - Usia 12-24 bulan: 3-4 kali makan utama + 1-2 kali snack\n - Selalu sertakan protein hewani dalam setiap sajian Makanan Pendamping ASI (MPASI) (telur, ikan, daging, hati)\n - Perbanyak variasi warna sayuran dan buah",
+      "section": "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI",
+      "subsection": "B. INTERVENSI PADA BAYI DAN BALITA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 1012,
+      "token_count": 164,
+      "keywords": [
+        "asi",
+        "gizi",
+        "mpasi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 164,
+        "char_count": 1012,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI | B. INTERVENSI PADA BAYI DAN BALITA]\nlain (termasuk air putih) hingga usia 6 bulan - Air Susu Ibu (ASI) mengandung semua nutrisi yang dibutuhkan bayi usia 0-6 bulan - Frekuensi menyusu: on demand (sesering mungkin, minimal 8-12 kali/24 jam) - Air Susu Ibu (ASI) dapat diteruskan hingga usia 2 tahun bersamaan dengan Makanan Pendamping ASI (MPASI)\n\n3. Makanan Pendamping Air Susu Ibu (ASI) (Makanan Pendamping ASI (MPASI))\n - Dimulai tepat saat usia 6 bulan (tidak lebih awal, tidak lebih lambat)\n - Prinsip Makanan Pendamping ASI (MPASI) yang tepat: tepat waktu, tepat kandungan gizi, tepat konsistensi, tepat jumlah, tepat cara pemberian\n - Dimulai dari tekstur lembut (bubur saring) kemudian ditingkatkan sesuai usia\n - Usia 6-8 bulan: 2-3 kali makan utama + 1-2 kali snack\n - Usia 9-11 bulan: 3-4 kali makan utama + 1-2 kali snack\n - Usia 12-24 bulan: 3-4 kali makan utama + 1-2 kali snack\n - Selalu sertakan protein hewani dalam setiap sajian Makanan Pendamping ASI (MPASI) (telur, ikan, daging, hati)\n - Perbanyak variasi warna sayuran dan buah"
+      }
+    },
+    {
+      "chunk_id": "chunk_0017",
+      "text": "1-2 kali snack - Usia 9-11 bulan: 3-4 kali makan utama + 1-2 kali snack - Usia 12-24 bulan: 3-4 kali makan utama + 1-2 kali snack - Selalu sertakan protein hewani dalam setiap sajian Makanan Pendamping ASI (MPASI) (telur, ikan, daging, hati) - Perbanyak variasi warna sayuran dan buah\n\n4. Suplementasi Vitamin A\n - Bayi 6-11 bulan: kapsul biru (100.000 IU) diberikan 1 kali\n - Balita 12-59 bulan: kapsul merah (200.000 IU) diberikan 2 kali setahun (Februari dan Agustus)\n - Sangat penting untuk imunitas, penglihatan, dan pertumbuhan\n\n5. Imunisasi Dasar Lengkap\n - HB0: Hepatitis B, diberikan < 24 jam setelah lahir\n - BCG: Tuberculosis, diberikan saat usia 1 bulan\n - DPT-HB-Hib 1,2,3: Difteri, Pertusis, Tetanus, diberikan usia 2, 3, 4 bulan\n - Polio 1,2,3,4: diberikan usia 1, 2, 3, 4 bulan\n - Campak/MR: diberikan usia 9 bulan dan 18 bulan\n - Imunisasi melindungi anak dari penyakit infeksi yang dapat menyebabkan malnutrisi",
+      "section": "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI",
+      "subsection": "B. INTERVENSI PADA BAYI DAN BALITA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 928,
+      "token_count": 152,
+      "keywords": [
+        "asi",
+        "gizi",
+        "intervensi_spesifik",
+        "mpasi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 152,
+        "char_count": 928,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI | B. INTERVENSI PADA BAYI DAN BALITA]\n1-2 kali snack - Usia 9-11 bulan: 3-4 kali makan utama + 1-2 kali snack - Usia 12-24 bulan: 3-4 kali makan utama + 1-2 kali snack - Selalu sertakan protein hewani dalam setiap sajian Makanan Pendamping ASI (MPASI) (telur, ikan, daging, hati) - Perbanyak variasi warna sayuran dan buah\n\n4. Suplementasi Vitamin A\n - Bayi 6-11 bulan: kapsul biru (100.000 IU) diberikan 1 kali\n - Balita 12-59 bulan: kapsul merah (200.000 IU) diberikan 2 kali setahun (Februari dan Agustus)\n - Sangat penting untuk imunitas, penglihatan, dan pertumbuhan\n\n5. Imunisasi Dasar Lengkap\n - HB0: Hepatitis B, diberikan < 24 jam setelah lahir\n - BCG: Tuberculosis, diberikan saat usia 1 bulan\n - DPT-HB-Hib 1,2,3: Difteri, Pertusis, Tetanus, diberikan usia 2, 3, 4 bulan\n - Polio 1,2,3,4: diberikan usia 1, 2, 3, 4 bulan\n - Campak/MR: diberikan usia 9 bulan dan 18 bulan\n - Imunisasi melindungi anak dari penyakit infeksi yang dapat menyebabkan malnutrisi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0018",
+      "text": "- BCG: Tuberculosis, diberikan saat usia 1 bulan - DPT-HB-Hib 1,2,3: Difteri, Pertusis, Tetanus, diberikan usia 2, 3, 4 bulan - Polio 1,2,3,4: diberikan usia 1, 2, 3, 4 bulan - Campak/MR: diberikan usia 9 bulan dan 18 bulan - Imunisasi melindungi anak dari penyakit infeksi yang dapat menyebabkan malnutrisi\n\n6. Pemantauan Pertumbuhan di Posyandu\n - Rutin timbang setiap bulan di Posyandu\n - Hasil penimbangan dicatat di buku KIA (Kesehatan Ibu dan Anak)\n - Gunakan Kartu Menuju Sehat (Kartu Menuju Sehat (KMS)) untuk memantau pertumbuhan\n - Segera konsultasikan ke petugas kesehatan jika berat badan tidak naik 2 bulan berturut-turut (status \"T\" di Kartu Menuju Sehat (KMS))\n\n7. Penanganan Gizi Buruk\n - Anak gizi buruk dengan komplikasi dirawat di Therapeutic Feeding Center (TFC) (Therapeutic Feeding Center)/RS\n - Anak gizi buruk tanpa komplikasi ditangani di Puskesmas/Posyandu\n - Pemberian Ready-to-Use Therapeutic Food (Ready to Use Therapeutic Food (RUTF))/F75/F100\n - Pengobatan infeksi penyerta",
+      "section": "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI",
+      "subsection": "B. INTERVENSI PADA BAYI DAN BALITA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 1004,
+      "token_count": 149,
+      "keywords": [
+        "gizi_buruk",
+        "puskesmas",
+        "asi",
+        "gizi",
+        "posyandu",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 149,
+        "char_count": 1004,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI | B. INTERVENSI PADA BAYI DAN BALITA]\n- BCG: Tuberculosis, diberikan saat usia 1 bulan - DPT-HB-Hib 1,2,3: Difteri, Pertusis, Tetanus, diberikan usia 2, 3, 4 bulan - Polio 1,2,3,4: diberikan usia 1, 2, 3, 4 bulan - Campak/MR: diberikan usia 9 bulan dan 18 bulan - Imunisasi melindungi anak dari penyakit infeksi yang dapat menyebabkan malnutrisi\n\n6. Pemantauan Pertumbuhan di Posyandu\n - Rutin timbang setiap bulan di Posyandu\n - Hasil penimbangan dicatat di buku KIA (Kesehatan Ibu dan Anak)\n - Gunakan Kartu Menuju Sehat (Kartu Menuju Sehat (KMS)) untuk memantau pertumbuhan\n - Segera konsultasikan ke petugas kesehatan jika berat badan tidak naik 2 bulan berturut-turut (status \"T\" di Kartu Menuju Sehat (KMS))\n\n7. Penanganan Gizi Buruk\n - Anak gizi buruk dengan komplikasi dirawat di Therapeutic Feeding Center (TFC) (Therapeutic Feeding Center)/RS\n - Anak gizi buruk tanpa komplikasi ditangani di Puskesmas/Posyandu\n - Pemberian Ready-to-Use Therapeutic Food (Ready to Use Therapeutic Food (RUTF))/F75/F100\n - Pengobatan infeksi penyerta"
+      }
+    },
+    {
+      "chunk_id": "chunk_0019",
+      "text": "1. Program Bantuan Pangan\n - Program Keluarga Harapan (Program Keluarga Harapan (PKH)) untuk keluarga miskin\n - Bantuan Pangan Non-Tunai (Bantuan Pangan Non-Tunai (BPNT))/Program Sembako\n - Warung Anak Sehat di sekolah\n - Kebun Gizi/pekarangan keluarga\n\n2. Diversifikasi Pangan Lokal\n - Pemanfaatan pangan lokal bergizi tinggi di Kendari: ikan bandeng, ikan kerapu, kepiting, sagu, umbi-umbian\n - Fortifikasi pangan lokal dengan zat gizi mikro\n - Pengurangan konsumsi makanan ultra-proses dan minuman manis",
+      "section": "SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF",
+      "subsection": "A. KETAHANAN PANGAN DAN GIZI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 14734,
+      "char_end": 15240,
+      "token_count": 69,
+      "keywords": [
+        "asi",
+        "gizi",
+        "intervensi_sensitif",
+        "balita",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 69,
+        "char_count": 506,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF | A. KETAHANAN PANGAN DAN GIZI]\n1. Program Bantuan Pangan\n - Program Keluarga Harapan (Program Keluarga Harapan (PKH)) untuk keluarga miskin\n - Bantuan Pangan Non-Tunai (Bantuan Pangan Non-Tunai (BPNT))/Program Sembako\n - Warung Anak Sehat di sekolah\n - Kebun Gizi/pekarangan keluarga\n\n2. Diversifikasi Pangan Lokal\n - Pemanfaatan pangan lokal bergizi tinggi di Kendari: ikan bandeng, ikan kerapu, kepiting, sagu, umbi-umbian\n - Fortifikasi pangan lokal dengan zat gizi mikro\n - Pengurangan konsumsi makanan ultra-proses dan minuman manis"
+      }
+    },
+    {
+      "chunk_id": "chunk_0020",
+      "text": "1. Akses Air Bersih\n - Penggunaan air bersih untuk minum, memasak, dan mencuci\n - Pengolahan air minum yang aman (merebus, filter, klorinasi)\n - Program PAMSIMAS (Penyediaan Air Minum dan Sanitasi Berbasis Masyarakat)\n\n2. Sanitasi Layak\n - Buang Air Besar di jamban sehat\n - Cuci Tangan Pakai Sabun (Cuci Tangan Pakai Sabun (CTPS)) 5 momen: sebelum makan, setelah Buang Air Besar (BAB), sebelum menyiapkan makanan, sebelum menyusu/memberi makan anak, setelah memegang hewan\n - Program Sanitasi Total Berbasis Masyarakat (STBM) (Sanitasi Total Berbasis Masyarakat) di Kota Kendari\n - Pengelolaan sampah yang baik",
+      "section": "SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF",
+      "subsection": "B. AIR BERSIH DAN SANITASI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 15270,
+      "char_end": 15881,
+      "token_count": 90,
+      "keywords": [
+        "asi",
+        "balita",
+        "kendari",
+        "intervensi_sensitif"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 90,
+        "char_count": 611,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF | B. AIR BERSIH DAN SANITASI]\n1. Akses Air Bersih\n - Penggunaan air bersih untuk minum, memasak, dan mencuci\n - Pengolahan air minum yang aman (merebus, filter, klorinasi)\n - Program PAMSIMAS (Penyediaan Air Minum dan Sanitasi Berbasis Masyarakat)\n\n2. Sanitasi Layak\n - Buang Air Besar di jamban sehat\n - Cuci Tangan Pakai Sabun (Cuci Tangan Pakai Sabun (CTPS)) 5 momen: sebelum makan, setelah Buang Air Besar (BAB), sebelum menyiapkan makanan, sebelum menyusu/memberi makan anak, setelah memegang hewan\n - Program Sanitasi Total Berbasis Masyarakat (STBM) (Sanitasi Total Berbasis Masyarakat) di Kota Kendari\n - Pengelolaan sampah yang baik"
+      }
+    },
+    {
+      "chunk_id": "chunk_0021",
+      "text": "1. Pendidikan Gizi dan Kesehatan\n - Kelas Ibu Hamil dan Ibu Balita di Puskesmas/Posyandu\n - Edukasi melalui media sosial dan aplikasi kesehatan\n - Konseling gizi individual dan kelompok\n - Penyuluhan di Posyandu oleh Kader Posyandu terlatih\n\n2. Peningkatan Pendidikan Perempuan\n - Pencegahan perkawinan dini (perkawinan < 19 tahun)\n - Akses pendidikan yang setara untuk perempuan\n - Pemberdayaan ekonomi perempuan",
+      "section": "SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF",
+      "subsection": "C. PENDIDIKAN DAN PEMBERDAYAAN PEREMPUAN",
+      "source_file": "stunting_docs.txt",
+      "char_start": 15925,
+      "char_end": 16338,
+      "token_count": 59,
+      "keywords": [
+        "puskesmas",
+        "asi",
+        "gizi",
+        "ibu_hamil",
+        "posyandu",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 59,
+        "char_count": 413,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF | C. PENDIDIKAN DAN PEMBERDAYAAN PEREMPUAN]\n1. Pendidikan Gizi dan Kesehatan\n - Kelas Ibu Hamil dan Ibu Balita di Puskesmas/Posyandu\n - Edukasi melalui media sosial dan aplikasi kesehatan\n - Konseling gizi individual dan kelompok\n - Penyuluhan di Posyandu oleh Kader Posyandu terlatih\n\n2. Peningkatan Pendidikan Perempuan\n - Pencegahan perkawinan dini (perkawinan < 19 tahun)\n - Akses pendidikan yang setara untuk perempuan\n - Pemberdayaan ekonomi perempuan"
+      }
+    },
+    {
+      "chunk_id": "chunk_0022",
+      "text": "1. Cakupan Jaminan Kesehatan\n - Kepesertaan Jaminan Kesehatan Nasional (JKN)/BPJS Kesehatan seluruh penduduk (Universal Health Coverage (UHC))\n - Penerima Bantuan Iuran (PBI) untuk keluarga miskin\n - Layanan kesehatan gratis di Puskesmas dengan BPJS\n\n2. Program Sosial Lainnya\n - Rumah Layak Huni untuk keluarga miskin\n - Akses listrik dan energi bersih\n - Program Padat Karya untuk pengentasan kemiskinan",
+      "section": "SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF",
+      "subsection": "D. JAMINAN SOSIAL DAN KESEHATAN",
+      "source_file": "stunting_docs.txt",
+      "char_start": 16373,
+      "char_end": 16778,
+      "token_count": 57,
+      "keywords": [
+        "asi",
+        "puskesmas"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 57,
+        "char_count": 405,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF | D. JAMINAN SOSIAL DAN KESEHATAN]\n1. Cakupan Jaminan Kesehatan\n - Kepesertaan Jaminan Kesehatan Nasional (JKN)/BPJS Kesehatan seluruh penduduk (Universal Health Coverage (UHC))\n - Penerima Bantuan Iuran (PBI) untuk keluarga miskin\n - Layanan kesehatan gratis di Puskesmas dengan BPJS\n\n2. Program Sosial Lainnya\n - Rumah Layak Huni untuk keluarga miskin\n - Akses listrik dan energi bersih\n - Program Padat Karya untuk pengentasan kemiskinan"
+      }
+    },
+    {
+      "chunk_id": "chunk_0023",
+      "text": "1. Puskesmas\n Kota Kendari memiliki 15 Puskesmas yang tersebar di 11 kecamatan:\n - Puskesmas Perumnas (Kec. Baruga)\n - Puskesmas Lepo-Lepo (Kec. Baruga)\n - Puskesmas Poasia (Kec. Poasia)\n - Puskesmas Abeli (Kec. Abeli)\n - Puskesmas Mata (Kec. Abeli)\n - Puskesmas Nambo (Kec. Nambo)\n - Puskesmas Purirano (Kec. Kendari)\n - Puskesmas Kemaraya (Kec. Kendari Barat)\n - Puskesmas Wua-Wua (Kec. Wua-Wua)\n - Puskesmas Jati Raya (Kec. Kadia)\n - Puskesmas Kadia (Kec. Kadia)\n - Puskesmas Mokoau (Kec. Kambu)\n - Puskesmas Kambu (Kec. Kambu)\n - Puskesmas Puuwatu (Kec. Puuwatu)\n - Puskesmas Labibia (Kec. Mandonga)\n\nLayanan yang tersedia di Puskesmas:\n - Klinik Gizi dengan konsultasi ahli gizi\n - Tatalaksana Gizi Buruk (TGC)\n - Antenatal Care (ANC) terpadu untuk ibu hamil\n - MTBS (Manajemen Terpadu Balita Sakit)\n - Pemantauan pertumbuhan dan perkembangan anak\n - Pemberian Pemberian Makanan Tambahan (PMT) (Makanan Tambahan) Pemulihan\n\n2. RSUD Kota Kendari\n - Tatalaksana rawat inap gizi buruk dengan komplikasi\n - Layanan spesialis anak\n - Klinik laktasi",
+      "section": "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI",
+      "subsection": "A. LAYANAN KESEHATAN UNTUK STUNTING DI KOTA KENDARI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 16880,
+      "char_end": 17928,
+      "token_count": 154,
+      "keywords": [
+        "gizi_buruk",
+        "puskesmas",
+        "asi",
+        "gizi",
+        "ibu_hamil",
+        "intervensi_spesifik",
+        "balita",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 154,
+        "char_count": 1048,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI | A. LAYANAN KESEHATAN UNTUK STUNTING DI KOTA KENDARI]\n1. Puskesmas\n Kota Kendari memiliki 15 Puskesmas yang tersebar di 11 kecamatan:\n - Puskesmas Perumnas (Kec. Baruga)\n - Puskesmas Lepo-Lepo (Kec. Baruga)\n - Puskesmas Poasia (Kec. Poasia)\n - Puskesmas Abeli (Kec. Abeli)\n - Puskesmas Mata (Kec. Abeli)\n - Puskesmas Nambo (Kec. Nambo)\n - Puskesmas Purirano (Kec. Kendari)\n - Puskesmas Kemaraya (Kec. Kendari Barat)\n - Puskesmas Wua-Wua (Kec. Wua-Wua)\n - Puskesmas Jati Raya (Kec. Kadia)\n - Puskesmas Kadia (Kec. Kadia)\n - Puskesmas Mokoau (Kec. Kambu)\n - Puskesmas Kambu (Kec. Kambu)\n - Puskesmas Puuwatu (Kec. Puuwatu)\n - Puskesmas Labibia (Kec. Mandonga)\n\nLayanan yang tersedia di Puskesmas:\n - Klinik Gizi dengan konsultasi ahli gizi\n - Tatalaksana Gizi Buruk (TGC)\n - Antenatal Care (ANC) terpadu untuk ibu hamil\n - MTBS (Manajemen Terpadu Balita Sakit)\n - Pemantauan pertumbuhan dan perkembangan anak\n - Pemberian Pemberian Makanan Tambahan (PMT) (Makanan Tambahan) Pemulihan\n\n2. RSUD Kota Kendari\n - Tatalaksana rawat inap gizi buruk dengan komplikasi\n - Layanan spesialis anak\n - Klinik laktasi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0024",
+      "text": "Buruk (TGC) - Antenatal Care (ANC) terpadu untuk ibu hamil - MTBS (Manajemen Terpadu Balita Sakit) - Pemantauan pertumbuhan dan perkembangan anak - Pemberian Pemberian Makanan Tambahan (PMT) (Makanan Tambahan) Pemulihan 2. RSUD Kota Kendari - Tatalaksana rawat inap gizi buruk dengan komplikasi - Layanan spesialis anak - Klinik laktasi\n\n3. Posyandu\n Kota Kendari memiliki lebih dari 500 Posyandu aktif.\n Jadwal Posyandu: 1 kali sebulan pada hari yang telah ditetapkan per kelurahan.\n Kegiatan Posyandu (5 Meja):\n - Meja 1: Pendaftaran\n - Meja 2: Penimbangan\n - Meja 3: Pengisian Kartu Menuju Sehat (KMS)\n - Meja 4: Penyuluhan/konseling\n - Meja 5: Pelayanan kesehatan dasar (imunisasi, vitamin A, Tablet Tambah Darah (TTD))",
+      "section": "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI",
+      "subsection": "A. LAYANAN KESEHATAN UNTUK STUNTING DI KOTA KENDARI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 723,
+      "token_count": 109,
+      "keywords": [
+        "gizi_buruk",
+        "asi",
+        "gizi",
+        "ibu_hamil",
+        "intervensi_spesifik",
+        "posyandu",
+        "balita",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 109,
+        "char_count": 723,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI | A. LAYANAN KESEHATAN UNTUK STUNTING DI KOTA KENDARI]\nBuruk (TGC) - Antenatal Care (ANC) terpadu untuk ibu hamil - MTBS (Manajemen Terpadu Balita Sakit) - Pemantauan pertumbuhan dan perkembangan anak - Pemberian Pemberian Makanan Tambahan (PMT) (Makanan Tambahan) Pemulihan 2. RSUD Kota Kendari - Tatalaksana rawat inap gizi buruk dengan komplikasi - Layanan spesialis anak - Klinik laktasi\n\n3. Posyandu\n Kota Kendari memiliki lebih dari 500 Posyandu aktif.\n Jadwal Posyandu: 1 kali sebulan pada hari yang telah ditetapkan per kelurahan.\n Kegiatan Posyandu (5 Meja):\n - Meja 1: Pendaftaran\n - Meja 2: Penimbangan\n - Meja 3: Pengisian Kartu Menuju Sehat (KMS)\n - Meja 4: Penyuluhan/konseling\n - Meja 5: Pelayanan kesehatan dasar (imunisasi, vitamin A, Tablet Tambah Darah (TTD))"
+      }
+    },
+    {
+      "chunk_id": "chunk_0025",
+      "text": "1. Tim Percepatan Penurunan Stunting (Tim Percepatan Penurunan Stunting (TPPS))\n - Dibentuk di tingkat kota, kecamatan, dan kelurahan\n - Koordinasi lintas sektor: Dinkes, BKKBN, Dinsos, DPKP, PUPR, Disdik\n - Pemantauan dan evaluasi melalui dashboard stunting digital\n\n2. Gerakan 1000 Hari Pertama Kehidupan (HPK) Kota Kendari\n - Intervensi komprehensif pada 1000 Hari Pertama Kehidupan (HPK) (dari konsepsi hingga usia 2 tahun)\n - Pemberdayaan keluarga dan masyarakat\n - Peningkatan kapasitas tenaga kesehatan dan kader\n\n3. Program Orang Tua Asuh Balita Stunting\n - ASN Kota Kendari sebagai orang tua asuh\n - Pemantauan langsung kondisi balita stunting\n - Pemberian dukungan nutrisi dan motivasi\n\n4. Dapur Sehat Anti Stunting (DASHAT)\n - Pengolahan pangan lokal bergizi untuk balita stunting\n - Melibatkan PKK, Karang Taruna, dan masyarakat\n - Lokus: di kelurahan dengan prevalensi stunting tertinggi\n\n5. Aplikasi e-PPGBM\n - Pencatatan dan pelaporan status gizi berbasis digital\n - Pemantauan real-time oleh Dinas Kesehatan\n - Integrasi data dari Posyandu, Puskesmas, dan RS",
+      "section": "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI",
+      "subsection": "B. PROGRAM PEMERINTAH KOTA KENDARI UNTUK PENANGGULANGAN STUNTING",
+      "source_file": "stunting_docs.txt",
+      "char_start": 18384,
+      "char_end": 19458,
+      "token_count": 153,
+      "keywords": [
+        "puskesmas",
+        "stunting",
+        "gizi",
+        "asi",
+        "posyandu",
+        "balita",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 153,
+        "char_count": 1074,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI | B. PROGRAM PEMERINTAH KOTA KENDARI UNTUK PENANGGULANGAN STUNTING]\n1. Tim Percepatan Penurunan Stunting (Tim Percepatan Penurunan Stunting (TPPS))\n - Dibentuk di tingkat kota, kecamatan, dan kelurahan\n - Koordinasi lintas sektor: Dinkes, BKKBN, Dinsos, DPKP, PUPR, Disdik\n - Pemantauan dan evaluasi melalui dashboard stunting digital\n\n2. Gerakan 1000 Hari Pertama Kehidupan (HPK) Kota Kendari\n - Intervensi komprehensif pada 1000 Hari Pertama Kehidupan (HPK) (dari konsepsi hingga usia 2 tahun)\n - Pemberdayaan keluarga dan masyarakat\n - Peningkatan kapasitas tenaga kesehatan dan kader\n\n3. Program Orang Tua Asuh Balita Stunting\n - ASN Kota Kendari sebagai orang tua asuh\n - Pemantauan langsung kondisi balita stunting\n - Pemberian dukungan nutrisi dan motivasi\n\n4. Dapur Sehat Anti Stunting (DASHAT)\n - Pengolahan pangan lokal bergizi untuk balita stunting\n - Melibatkan PKK, Karang Taruna, dan masyarakat\n - Lokus: di kelurahan dengan prevalensi stunting tertinggi\n\n5. Aplikasi e-PPGBM\n - Pencatatan dan pelaporan status gizi berbasis digital\n - Pemantauan real-time oleh Dinas Kesehatan\n - Integrasi data dari Posyandu, Puskesmas, dan RS"
+      }
+    },
+    {
+      "chunk_id": "chunk_0026",
+      "text": "Alur Deteksi dan Rujukan Stunting di Kota Kendari:\n1. Deteksi: Penimbangan dan pengukuran rutin di Posyandu\n2. Konfirmasi: Pemeriksaan oleh bidan/perawat di Puskesmas\n3. Tatalaksana: Intervensi gizi dan kesehatan di Puskesmas\n4. Rujukan: Kasus komplikasi dirujuk ke RSUD Kota Kendari\n5. Pemantauan: Follow-up setiap bulan di Posyandu/Puskesmas",
+      "section": "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI",
+      "subsection": "C. RUJUKAN DAN ALUR PENANGANAN STUNTING",
+      "source_file": "stunting_docs.txt",
+      "char_start": 19501,
+      "char_end": 19844,
+      "token_count": 47,
+      "keywords": [
+        "puskesmas",
+        "stunting",
+        "gizi",
+        "asi",
+        "intervensi_spesifik",
+        "posyandu",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 47,
+        "char_count": 343,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI | C. RUJUKAN DAN ALUR PENANGANAN STUNTING]\nAlur Deteksi dan Rujukan Stunting di Kota Kendari:\n1. Deteksi: Penimbangan dan pengukuran rutin di Posyandu\n2. Konfirmasi: Pemeriksaan oleh bidan/perawat di Puskesmas\n3. Tatalaksana: Intervensi gizi dan kesehatan di Puskesmas\n4. Rujukan: Kasus komplikasi dirujuk ke RSUD Kota Kendari\n5. Pemantauan: Follow-up setiap bulan di Posyandu/Puskesmas"
+      }
+    },
+    {
+      "chunk_id": "chunk_0027",
+      "text": "1. Kebutuhan Energi Tambahan\n - Trimester I: tambahan 180 kkal/hari\n - Trimester II: tambahan 300 kkal/hari\n - Trimester III: tambahan 300 kkal/hari\n\n2. Kebutuhan Protein\n - Tambahan 17 g/hari dari kebutuhan normal\n - Total kebutuhan: sekitar 70-80 g/hari\n - Sumber: ikan, daging, telur, susu, kacang-kacangan\n\n3. Kebutuhan Zat Besi\n - 27 mg/hari (vs 18 mg/hari pada perempuan tidak hamil)\n - Sumber makanan: daging merah, hati, ikan, sayuran hijau gelap, kacang-kacangan\n - Suplementasi: Tablet Tambah Darah (Tablet Tambah Darah (TTD)) 60 mg besi elemental\n\n4. Kebutuhan Asam Folat\n - 600 mcg/hari selama hamil\n - Sangat penting pada trimester pertama untuk mencegah Neural Tube Defect (Neural Tube Defect (NTD))\n - Sumber: sayuran hijau (bayam, brokoli, asparagus), hati, kacang-kacangan, sereal fortifikasi\n\n5. Kebutuhan Kalsium\n - 1.200 mg/hari\n - Sumber: susu dan produk olahan, ikan teri, tahu, tempe, sayuran hijau\n\n6. Kebutuhan Zinc\n - 11 mg/hari\n - Sangat penting untuk pertumbuhan dan imunitas janin\n - Sumber: daging merah, seafood (terutama tiram), kacang-kacangan, biji-bijian\n\n7. Kebutuhan Yodium\n - 250 mcg/hari\n - Penting untuk perkembangan otak janin\n - Gunakan garam beryodium dalam masakan\n - Sumber: makanan laut, produk susu, telur",
+      "section": "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI",
+      "subsection": "A. KEBUTUHAN GIZI IBU HAMIL",
+      "source_file": "stunting_docs.txt",
+      "char_start": 19914,
+      "char_end": 21166,
+      "token_count": 184,
+      "keywords": [
+        "asi",
+        "gizi_ibu_hamil",
+        "ibu_hamil",
+        "intervensi_spesifik"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 184,
+        "char_count": 1252,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI | A. KEBUTUHAN GIZI IBU HAMIL]\n1. Kebutuhan Energi Tambahan\n - Trimester I: tambahan 180 kkal/hari\n - Trimester II: tambahan 300 kkal/hari\n - Trimester III: tambahan 300 kkal/hari\n\n2. Kebutuhan Protein\n - Tambahan 17 g/hari dari kebutuhan normal\n - Total kebutuhan: sekitar 70-80 g/hari\n - Sumber: ikan, daging, telur, susu, kacang-kacangan\n\n3. Kebutuhan Zat Besi\n - 27 mg/hari (vs 18 mg/hari pada perempuan tidak hamil)\n - Sumber makanan: daging merah, hati, ikan, sayuran hijau gelap, kacang-kacangan\n - Suplementasi: Tablet Tambah Darah (Tablet Tambah Darah (TTD)) 60 mg besi elemental\n\n4. Kebutuhan Asam Folat\n - 600 mcg/hari selama hamil\n - Sangat penting pada trimester pertama untuk mencegah Neural Tube Defect (Neural Tube Defect (NTD))\n - Sumber: sayuran hijau (bayam, brokoli, asparagus), hati, kacang-kacangan, sereal fortifikasi\n\n5. Kebutuhan Kalsium\n - 1.200 mg/hari\n - Sumber: susu dan produk olahan, ikan teri, tahu, tempe, sayuran hijau\n\n6. Kebutuhan Zinc\n - 11 mg/hari\n - Sangat penting untuk pertumbuhan dan imunitas janin\n - Sumber: daging merah, seafood (terutama tiram), kacang-kacangan, biji-bijian\n\n7. Kebutuhan Yodium\n - 250 mcg/hari\n - Penting untuk perkembangan otak janin\n - Gunakan garam beryodium dalam masakan\n - Sumber: makanan laut, produk susu, telur"
+      }
+    },
+    {
+      "chunk_id": "chunk_0028",
+      "text": "sayuran hijau 6. Kebutuhan Zinc - 11 mg/hari - Sangat penting untuk pertumbuhan dan imunitas janin - Sumber: daging merah, seafood (terutama tiram), kacang-kacangan, biji-bijian 7. Kebutuhan Yodium - 250 mcg/hari - Penting untuk perkembangan otak janin - Gunakan garam beryodium dalam masakan - Sumber: makanan laut, produk susu, telur\n\n8. Kebutuhan Vitamin D\n - 15 mcg (600 IU)/hari\n - Penting untuk absorpsi kalsium dan perkembangan tulang\n - Sumber: paparan sinar matahari pagi, ikan berlemak, susu fortifikasi",
+      "section": "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI",
+      "subsection": "A. KEBUTUHAN GIZI IBU HAMIL",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 513,
+      "token_count": 77,
+      "keywords": [
+        "asi",
+        "gizi_ibu_hamil",
+        "ibu_hamil",
+        "intervensi_spesifik"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 77,
+        "char_count": 513,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI | A. KEBUTUHAN GIZI IBU HAMIL]\nsayuran hijau 6. Kebutuhan Zinc - 11 mg/hari - Sangat penting untuk pertumbuhan dan imunitas janin - Sumber: daging merah, seafood (terutama tiram), kacang-kacangan, biji-bijian 7. Kebutuhan Yodium - 250 mcg/hari - Penting untuk perkembangan otak janin - Gunakan garam beryodium dalam masakan - Sumber: makanan laut, produk susu, telur\n\n8. Kebutuhan Vitamin D\n - 15 mcg (600 IU)/hari\n - Penting untuk absorpsi kalsium dan perkembangan tulang\n - Sumber: paparan sinar matahari pagi, ikan berlemak, susu fortifikasi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0029",
+      "text": "Rekomendasi WHO dan Institute of Medicine (IOM):\n- Indeks Massa Tubuh (IMT) < 18,5 (kurus): kenaikan 12,5-18 kg\n- Indeks Massa Tubuh (IMT) 18,5-24,9 (normal): kenaikan 11,5-16 kg\n- Indeks Massa Tubuh (IMT) 25,0-29,9 (gemuk): kenaikan 7-11,5 kg\n- Indeks Massa Tubuh (IMT) ≥ 30 (obesitas): kenaikan 5-9 kg\n\nPola kenaikan berat badan yang normal:\n- Trimester I: 0,5-2 kg total\n- Trimester II: 0,3-0,5 kg/minggu\n- Trimester III: 0,3-0,5 kg/minggu",
+      "section": "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI",
+      "subsection": "B. KENAIKAN BERAT BADAN SELAMA HAMIL",
+      "source_file": "stunting_docs.txt",
+      "char_start": 21384,
+      "char_end": 21826,
+      "token_count": 71,
+      "keywords": [
+        "asi",
+        "gizi_buruk",
+        "ibu_hamil"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 71,
+        "char_count": 442,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI | B. KENAIKAN BERAT BADAN SELAMA HAMIL]\nRekomendasi WHO dan Institute of Medicine (IOM):\n- Indeks Massa Tubuh (IMT) < 18,5 (kurus): kenaikan 12,5-18 kg\n- Indeks Massa Tubuh (IMT) 18,5-24,9 (normal): kenaikan 11,5-16 kg\n- Indeks Massa Tubuh (IMT) 25,0-29,9 (gemuk): kenaikan 7-11,5 kg\n- Indeks Massa Tubuh (IMT) ≥ 30 (obesitas): kenaikan 5-9 kg\n\nPola kenaikan berat badan yang normal:\n- Trimester I: 0,5-2 kg total\n- Trimester II: 0,3-0,5 kg/minggu\n- Trimester III: 0,3-0,5 kg/minggu"
+      }
+    },
+    {
+      "chunk_id": "chunk_0030",
+      "text": "Makanan yang HARUS DIHINDARI:\n- Ikan dengan merkuri tinggi: ikan hiu, ikan todak, ikan makerel besar, ikan tuna sirip biru\n- Makanan mentah: sushi, sashimi, daging setengah matang, telur mentah\n- Susu dan produk susu tidak dipasteurisasi\n- Daging olahan (hot dog, deli meat) yang tidak dipanaskan ulang\n- Alkohol (sama sekali tidak boleh)\n- Kafein berlebihan (maksimal 200 mg/hari = 1-2 cangkir kopi)\n- Makanan dengan kontaminasi listeria: keju lunak, paté\n\nMakanan yang DIANJURKAN:\n- Ikan rendah merkuri: ikan salmon, ikan sarden, ikan bandeng, ikan kembung (2-3 porsi/minggu)\n- Telur yang dimasak matang\n- Daging dan unggas yang dimasak matang\n- Buah dan sayuran segar yang dicuci bersih\n- Produk susu yang dipasteurisasi\n- Kacang-kacangan dan biji-bijian",
+      "section": "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI",
+      "subsection": "C. PANTANGAN DAN PERINGATAN MAKANAN IBU HAMIL",
+      "source_file": "stunting_docs.txt",
+      "char_start": 21875,
+      "char_end": 22632,
+      "token_count": 118,
+      "keywords": [
+        "asi"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 118,
+        "char_count": 757,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI | C. PANTANGAN DAN PERINGATAN MAKANAN IBU HAMIL]\nMakanan yang HARUS DIHINDARI:\n- Ikan dengan merkuri tinggi: ikan hiu, ikan todak, ikan makerel besar, ikan tuna sirip biru\n- Makanan mentah: sushi, sashimi, daging setengah matang, telur mentah\n- Susu dan produk susu tidak dipasteurisasi\n- Daging olahan (hot dog, deli meat) yang tidak dipanaskan ulang\n- Alkohol (sama sekali tidak boleh)\n- Kafein berlebihan (maksimal 200 mg/hari = 1-2 cangkir kopi)\n- Makanan dengan kontaminasi listeria: keju lunak, paté\n\nMakanan yang DIANJURKAN:\n- Ikan rendah merkuri: ikan salmon, ikan sarden, ikan bandeng, ikan kembung (2-3 porsi/minggu)\n- Telur yang dimasak matang\n- Daging dan unggas yang dimasak matang\n- Buah dan sayuran segar yang dicuci bersih\n- Produk susu yang dipasteurisasi\n- Kacang-kacangan dan biji-bijian"
+      }
+    },
+    {
+      "chunk_id": "chunk_0031",
+      "text": "1. Kebutuhan Energi Tambahan\n - Tambahan 500 kkal/hari dari kebutuhan normal\n - Total sekitar 2.300-2.500 kkal/hari\n\n2. Kebutuhan Cairan\n - Minum minimal 8-12 gelas (2-3 liter) air per hari\n - Konsumsi cairan yang cukup penting untuk produksi Air Susu Ibu (ASI)\n\n3. Makanan yang Meningkatkan Produksi Air Susu Ibu (ASI) (Galaktagog)\n - Katuk (daun katuk)\n - Daun torbangun (di Sulawesi dikenal sebagai bangun-bangun)\n - Fenugreek\n - Oatmeal\n - Ikan dan seafood\n\n4. Makanan yang Perlu Dibatasi saat Menyusui\n - Kafein (masuk ke Air Susu Ibu (ASI))\n - Alkohol (masuk ke Air Susu Ibu (ASI))\n - Ikan merkuri tinggi",
+      "section": "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI",
+      "subsection": "D. GIZI IBU MENYUSUI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 22656,
+      "char_end": 23266,
+      "token_count": 98,
+      "keywords": [
+        "asi"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 98,
+        "char_count": 610,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI | D. GIZI IBU MENYUSUI]\n1. Kebutuhan Energi Tambahan\n - Tambahan 500 kkal/hari dari kebutuhan normal\n - Total sekitar 2.300-2.500 kkal/hari\n\n2. Kebutuhan Cairan\n - Minum minimal 8-12 gelas (2-3 liter) air per hari\n - Konsumsi cairan yang cukup penting untuk produksi Air Susu Ibu (ASI)\n\n3. Makanan yang Meningkatkan Produksi Air Susu Ibu (ASI) (Galaktagog)\n - Katuk (daun katuk)\n - Daun torbangun (di Sulawesi dikenal sebagai bangun-bangun)\n - Fenugreek\n - Oatmeal\n - Ikan dan seafood\n\n4. Makanan yang Perlu Dibatasi saat Menyusui\n - Kafein (masuk ke Air Susu Ibu (ASI))\n - Alkohol (masuk ke Air Susu Ibu (ASI))\n - Ikan merkuri tinggi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0032",
+      "text": "Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA\n\nMakanan Pendamping ASI (MPASI) (Makanan Pendamping Air Susu Ibu (ASI)) adalah makanan atau cairan bergizi yang diberikan kepada bayi mulai usia 6 bulan, selain Air Susu Ibu (ASI), untuk memenuhi kebutuhan nutrisi, energi, zat besi, serta melatih kemampuan mengunyah dan menelan. Makanan Pendamping ASI (MPASI) bertujuan mendukung tumbuh kembang optimal saat Air Susu Ibu (ASI) saja tidak lagi mencukupi kebutuhan bayi. (Kemenkes, 2018)",
+      "section": "SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA",
+      "subsection": "Pendahuluan",
+      "source_file": "stunting_docs.txt",
+      "char_start": 23278,
+      "char_end": 23767,
+      "token_count": 71,
+      "keywords": [
+        "asi",
+        "gizi",
+        "mpasi",
+        "gizi_ibu_hamil",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 71,
+        "char_count": 489,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA | Pendahuluan]\nMakanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA\n\nMakanan Pendamping ASI (MPASI) (Makanan Pendamping Air Susu Ibu (ASI)) adalah makanan atau cairan bergizi yang diberikan kepada bayi mulai usia 6 bulan, selain Air Susu Ibu (ASI), untuk memenuhi kebutuhan nutrisi, energi, zat besi, serta melatih kemampuan mengunyah dan menelan. Makanan Pendamping ASI (MPASI) bertujuan mendukung tumbuh kembang optimal saat Air Susu Ibu (ASI) saja tidak lagi mencukupi kebutuhan bayi. (Kemenkes, 2018)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0033",
+      "text": "1. Tepat Waktu\n - Dimulai saat usia 6 bulan tepat (180 hari)\n - Jangan sebelum 4 bulan (risiko alergi, gangguan pencernaan)\n - Jangan setelah 8 bulan (risiko defisiensi gizi, stunting)\n\n2. Tepat Kandungan Gizi (Nutritionally Adequate)\n - Memenuhi kebutuhan energi, protein, lemak, vitamin, dan mineral\n - Kualitas protein penting: selalu sertakan protein hewani\n - Porsi kaya zat besi terutama pada 6-12 bulan (cadangan besi bayi habis)\n\n3. Tepat Konsistensi\n - Usia 6-8 bulan: puree/bubur halus, lumat\n - Usia 8-10 bulan: bubur kasar, makanan yang bisa digenggam (finger food)\n - Usia 10-12 bulan: makanan keluarga lunak\n - Usia >12 bulan: makanan keluarga biasa\n\n4. Tepat Jumlah (Frekuensi dan Porsi)\n - 6-8 bulan: 2-3 kali/hari, 2-3 sdm per sajian, bertahap\n - 9-11 bulan: 3-4 kali/hari, ½ mangkuk 250 ml\n - 12-23 bulan: 3-4 kali/hari, ¾ hingga 1 mangkuk 250 ml\n + snack bergizi 1-2 kali/hari\n\n5. Responsive Feeding (Pemberian Makan Responsif)\n - Makan bersama, penuh perhatian, tanpa gangguan layar (TV, HP)\n - Beri makan perlahan, sabar, dorong anak tapi jangan paksa\n - Kenali tanda lapar dan kenyang anak\n - Makanan baru perlu diperkenalkan 8-15 kali sebelum diterima anak",
+      "section": "SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA",
+      "subsection": "A. PRINSIP Makanan Pendamping ASI (MPASI) (WHO 2023)",
+      "source_file": "stunting_docs.txt",
+      "char_start": 23823,
+      "char_end": 25002,
+      "token_count": 186,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "intervensi_spesifik",
+        "mpasi",
+        "gizi_ibu_hamil",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 186,
+        "char_count": 1179,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA | A. PRINSIP Makanan Pendamping ASI (MPASI) (WHO 2023)]\n1. Tepat Waktu\n - Dimulai saat usia 6 bulan tepat (180 hari)\n - Jangan sebelum 4 bulan (risiko alergi, gangguan pencernaan)\n - Jangan setelah 8 bulan (risiko defisiensi gizi, stunting)\n\n2. Tepat Kandungan Gizi (Nutritionally Adequate)\n - Memenuhi kebutuhan energi, protein, lemak, vitamin, dan mineral\n - Kualitas protein penting: selalu sertakan protein hewani\n - Porsi kaya zat besi terutama pada 6-12 bulan (cadangan besi bayi habis)\n\n3. Tepat Konsistensi\n - Usia 6-8 bulan: puree/bubur halus, lumat\n - Usia 8-10 bulan: bubur kasar, makanan yang bisa digenggam (finger food)\n - Usia 10-12 bulan: makanan keluarga lunak\n - Usia >12 bulan: makanan keluarga biasa\n\n4. Tepat Jumlah (Frekuensi dan Porsi)\n - 6-8 bulan: 2-3 kali/hari, 2-3 sdm per sajian, bertahap\n - 9-11 bulan: 3-4 kali/hari, ½ mangkuk 250 ml\n - 12-23 bulan: 3-4 kali/hari, ¾ hingga 1 mangkuk 250 ml\n + snack bergizi 1-2 kali/hari\n\n5. Responsive Feeding (Pemberian Makan Responsif)\n - Makan bersama, penuh perhatian, tanpa gangguan layar (TV, HP)\n - Beri makan perlahan, sabar, dorong anak tapi jangan paksa\n - Kenali tanda lapar dan kenyang anak\n - Makanan baru perlu diperkenalkan 8-15 kali sebelum diterima anak"
+      }
+    },
+    {
+      "chunk_id": "chunk_0034",
+      "text": "Anak siap menerima Makanan Pendamping ASI (MPASI) jika:\n- Kepala tegak dan stabil\n- Bisa duduk dengan sedikit bantuan\n- Menunjukkan minat pada makanan (meraih makanan, membuka mulut)\n- Refleks ekstrusi (mendorong makanan keluar) sudah berkurang\n- Berat badan sudah dua kali berat lahir (umumnya saat usia 6 bulan)",
+      "section": "SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA",
+      "subsection": "B. TANDA-TANDA ANAK SIAP Makanan Pendamping ASI (MPASI)",
+      "source_file": "stunting_docs.txt",
+      "char_start": 25061,
+      "char_end": 25374,
+      "token_count": 49,
+      "keywords": [
+        "asi",
+        "mpasi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 49,
+        "char_count": 313,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA | B. TANDA-TANDA ANAK SIAP Makanan Pendamping ASI (MPASI)]\nAnak siap menerima Makanan Pendamping ASI (MPASI) jika:\n- Kepala tegak dan stabil\n- Bisa duduk dengan sedikit bantuan\n- Menunjukkan minat pada makanan (meraih makanan, membuka mulut)\n- Refleks ekstrusi (mendorong makanan keluar) sudah berkurang\n- Berat badan sudah dua kali berat lahir (umumnya saat usia 6 bulan)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0035",
+      "text": "Bahan Pangan Lokal Bergizi Tinggi di Kota Kendari:\n\nSumber Protein Hewani:\n- Ikan bandeng: tinggi protein, omega-3, rendah merkuri\n- Ikan kerapu: protein tinggi\n- Ikan kembung/layang: omega-3, terjangkau\n- Telur ayam kampung: lengkap gizinya\n- Daging ayam: protein hewani yang mudah didapat\n- Hati ayam: sangat kaya besi, zinc, vitamin A\n- Kepiting: protein, zinc, omega-3\n\nSumber Karbohidrat:\n- Sagu: karbohidrat lokal Sulawesi, mudah dicerna\n- Nasi merah: lebih bergizi dari nasi putih\n- Ubi jalar: karbohidrat + beta karoten (provitamin A)\n- Singkong: karbohidrat, namun rendah protein\n- Labu kuning: sumber karbohidrat + beta karoten\n\nSumber Sayuran:\n- Kangkung: zat besi, vitamin C\n- Bayam: zat besi, folat, vitamin A\n- Wortel: beta karoten\n- Kacang panjang: protein, serat\n- Daun singkong: protein nabati, zat besi\n- Buncis: serat, vitamin C\n\nBuah Lokal:\n- Pepaya: vitamin C, beta karoten, membantu pencernaan\n- Pisang: karbohidrat, potasium, mudah diberikan sebagai Makanan Pendamping ASI (MPASI)\n- Mangga: vitamin C, beta karoten (saat musim)\n- Jeruk: vitamin C, meningkatkan absorpsi zat besi",
+      "section": "SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA",
+      "subsection": "C. Makanan Pendamping ASI (MPASI) BERBASIS BAHAN LOKAL KOTA KENDARI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 25445,
+      "char_end": 26546,
+      "token_count": 170,
+      "keywords": [
+        "asi",
+        "gizi",
+        "intervensi_spesifik",
+        "mpasi",
+        "gizi_ibu_hamil",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 170,
+        "char_count": 1101,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA | C. Makanan Pendamping ASI (MPASI) BERBASIS BAHAN LOKAL KOTA KENDARI]\nBahan Pangan Lokal Bergizi Tinggi di Kota Kendari:\n\nSumber Protein Hewani:\n- Ikan bandeng: tinggi protein, omega-3, rendah merkuri\n- Ikan kerapu: protein tinggi\n- Ikan kembung/layang: omega-3, terjangkau\n- Telur ayam kampung: lengkap gizinya\n- Daging ayam: protein hewani yang mudah didapat\n- Hati ayam: sangat kaya besi, zinc, vitamin A\n- Kepiting: protein, zinc, omega-3\n\nSumber Karbohidrat:\n- Sagu: karbohidrat lokal Sulawesi, mudah dicerna\n- Nasi merah: lebih bergizi dari nasi putih\n- Ubi jalar: karbohidrat + beta karoten (provitamin A)\n- Singkong: karbohidrat, namun rendah protein\n- Labu kuning: sumber karbohidrat + beta karoten\n\nSumber Sayuran:\n- Kangkung: zat besi, vitamin C\n- Bayam: zat besi, folat, vitamin A\n- Wortel: beta karoten\n- Kacang panjang: protein, serat\n- Daun singkong: protein nabati, zat besi\n- Buncis: serat, vitamin C\n\nBuah Lokal:\n- Pepaya: vitamin C, beta karoten, membantu pencernaan\n- Pisang: karbohidrat, potasium, mudah diberikan sebagai Makanan Pendamping ASI (MPASI)\n- Mangga: vitamin C, beta karoten (saat musim)\n- Jeruk: vitamin C, meningkatkan absorpsi zat besi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0036",
+      "text": "Standar WHO 2006 adalah standar pertumbuhan internasional berdasarkan anak yang dibesarkan dalam kondisi optimal. Indonesia menggunakan standar ini dalam Permenkes 2 Tahun 2020.\n\nIndikator Antropometri yang Digunakan:\n1. Berat Badan (BB)/U (Berat Badan menurut Umur)\n - Untuk menilai apakah berat badan anak sesuai umur\n - Mendeteksi underweight, risiko berat badan lebih\n - Tidak bisa membedakan masalah gizi akut dan kronis\n\n2. Panjang Badan (PB)/U atau Tinggi Badan (TB)/U (Panjang/Tinggi Badan menurut Umur)\n - INDIKATOR STUNTING\n - Panjang Badan (PB) digunakan untuk anak < 2 tahun (diukur terlentang)\n - Tinggi Badan (TB) digunakan untuk anak ≥ 2 tahun (diukur berdiri)\n - Menggambarkan masalah gizi kronis jangka panjang\n\n3. Berat Badan (BB)/Panjang Badan (PB) atau Berat Badan (BB)/Tinggi Badan (TB) (Berat Badan menurut Panjang/Tinggi Badan)\n - Menilai proporsionalitas berat badan terhadap tinggi badan\n - Mendeteksi wasting (kurus) dan overweight\n - Sensitif terhadap perubahan gizi jangka pendek\n\n4. Indeks Massa Tubuh (IMT)/U (Indeks Massa Tubuh menurut Umur)\n - Digunakan untuk anak > 5 tahun\n - Menilai obesitas dan kurang gizi",
+      "section": "SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK",
+      "subsection": "A. STANDAR PERTUMBUHAN WHO 2006",
+      "source_file": "stunting_docs.txt",
+      "char_start": 26621,
+      "char_end": 27763,
+      "token_count": 167,
+      "keywords": [
+        "gizi_buruk",
+        "stunting",
+        "gizi",
+        "asi",
+        "dampak",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 167,
+        "char_count": 1142,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK | A. STANDAR PERTUMBUHAN WHO 2006]\nStandar WHO 2006 adalah standar pertumbuhan internasional berdasarkan anak yang dibesarkan dalam kondisi optimal. Indonesia menggunakan standar ini dalam Permenkes 2 Tahun 2020.\n\nIndikator Antropometri yang Digunakan:\n1. Berat Badan (BB)/U (Berat Badan menurut Umur)\n - Untuk menilai apakah berat badan anak sesuai umur\n - Mendeteksi underweight, risiko berat badan lebih\n - Tidak bisa membedakan masalah gizi akut dan kronis\n\n2. Panjang Badan (PB)/U atau Tinggi Badan (TB)/U (Panjang/Tinggi Badan menurut Umur)\n - INDIKATOR STUNTING\n - Panjang Badan (PB) digunakan untuk anak < 2 tahun (diukur terlentang)\n - Tinggi Badan (TB) digunakan untuk anak ≥ 2 tahun (diukur berdiri)\n - Menggambarkan masalah gizi kronis jangka panjang\n\n3. Berat Badan (BB)/Panjang Badan (PB) atau Berat Badan (BB)/Tinggi Badan (TB) (Berat Badan menurut Panjang/Tinggi Badan)\n - Menilai proporsionalitas berat badan terhadap tinggi badan\n - Mendeteksi wasting (kurus) dan overweight\n - Sensitif terhadap perubahan gizi jangka pendek\n\n4. Indeks Massa Tubuh (IMT)/U (Indeks Massa Tubuh menurut Umur)\n - Digunakan untuk anak > 5 tahun\n - Menilai obesitas dan kurang gizi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0037",
+      "text": "Untuk Berat Badan (BB)/U:\n- > +3 Standar Deviasi (SD): Berat badan lebih (possible overweight)\n- +2 Standar Deviasi (SD) s/d +3 Standar Deviasi (SD): Berat badan lebih\n- -2 Standar Deviasi (SD) s/d +2 Standar Deviasi (SD): Berat badan normal\n- -3 Standar Deviasi (SD) s/d < -2 Standar Deviasi (SD): Berat badan kurang (underweight)\n- < -3 Standar Deviasi (SD): Berat badan sangat kurang (severely underweight)\n\nUntuk Panjang Badan (PB)/U atau Tinggi Badan (TB)/U (Stunting):\n- > +3 Standar Deviasi (SD): Tinggi badan lebih\n- -2 Standar Deviasi (SD) s/d +3 Standar Deviasi (SD): Normal\n- -3 Standar Deviasi (SD) s/d < -2 Standar Deviasi (SD): PENDEK (STUNTING)\n- < -3 Standar Deviasi (SD): SANGAT PENDEK (SEVERE STUNTING)\n\nUntuk Berat Badan (BB)/Panjang Badan (PB) atau Berat Badan (BB)/Tinggi Badan (TB):\n- > +3 Standar Deviasi (SD): Obesitas\n- +2 Standar Deviasi (SD) s/d +3 Standar Deviasi (SD): Gizi lebih (overweight)\n- -2 Standar Deviasi (SD) s/d +2 Standar Deviasi (SD): Gizi baik (normal)\n- -3 Standar Deviasi (SD) s/d < -2 Standar Deviasi (SD): Kurus (wasting)\n- < -3 Standar Deviasi (SD): Sangat kurus (severe wasting)",
+      "section": "SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK",
+      "subsection": "B. INTERPRETASI Z-SCORE",
+      "source_file": "stunting_docs.txt",
+      "char_start": 27790,
+      "char_end": 28917,
+      "token_count": 188,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "gizi_buruk",
+        "asi"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 188,
+        "char_count": 1127,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK | B. INTERPRETASI Z-SCORE]\nUntuk Berat Badan (BB)/U:\n- > +3 Standar Deviasi (SD): Berat badan lebih (possible overweight)\n- +2 Standar Deviasi (SD) s/d +3 Standar Deviasi (SD): Berat badan lebih\n- -2 Standar Deviasi (SD) s/d +2 Standar Deviasi (SD): Berat badan normal\n- -3 Standar Deviasi (SD) s/d < -2 Standar Deviasi (SD): Berat badan kurang (underweight)\n- < -3 Standar Deviasi (SD): Berat badan sangat kurang (severely underweight)\n\nUntuk Panjang Badan (PB)/U atau Tinggi Badan (TB)/U (Stunting):\n- > +3 Standar Deviasi (SD): Tinggi badan lebih\n- -2 Standar Deviasi (SD) s/d +3 Standar Deviasi (SD): Normal\n- -3 Standar Deviasi (SD) s/d < -2 Standar Deviasi (SD): PENDEK (STUNTING)\n- < -3 Standar Deviasi (SD): SANGAT PENDEK (SEVERE STUNTING)\n\nUntuk Berat Badan (BB)/Panjang Badan (PB) atau Berat Badan (BB)/Tinggi Badan (TB):\n- > +3 Standar Deviasi (SD): Obesitas\n- +2 Standar Deviasi (SD) s/d +3 Standar Deviasi (SD): Gizi lebih (overweight)\n- -2 Standar Deviasi (SD) s/d +2 Standar Deviasi (SD): Gizi baik (normal)\n- -3 Standar Deviasi (SD) s/d < -2 Standar Deviasi (SD): Kurus (wasting)\n- < -3 Standar Deviasi (SD): Sangat kurus (severe wasting)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0038",
+      "text": "Mengukur Panjang Badan (anak < 2 tahun):\n1. Siapkan alat: infant measuring board (papan ukur bayi)\n2. Posisi anak: terlentang di atas papan ukur\n3. Kepala anak menempel pada bagian fixed di papan ukur\n4. Lutut anak ditekan oleh satu tangan agar lurus\n5. Tumit anak menempel pada bagian bergerak papan ukur\n6. Baca skala dengan presisi 0,1 cm\n\nMengukur Tinggi Badan (anak ≥ 2 tahun):\n1. Siapkan alat: microtoise/stadiometer yang ditempel di dinding\n2. Posisi anak: berdiri tegak, tumit rapat, bokong dan punggung menempel dinding\n3. Kepala posisi Frankfurt Plane (garis horizontal dari tepi bawah orbita ke tragus telinga)\n4. Tarik napas dalam, ukur saat puncak inspirasi\n5. Baca skala dengan presisi 0,1 cm",
+      "section": "SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK",
+      "subsection": "C. CARA MENGUKUR TINGGI/PANJANG BADAN ANAK",
+      "source_file": "stunting_docs.txt",
+      "char_start": 28963,
+      "char_end": 29669,
+      "token_count": 115,
+      "keywords": [
+        "asi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 115,
+        "char_count": 706,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK | C. CARA MENGUKUR TINGGI/PANJANG BADAN ANAK]\nMengukur Panjang Badan (anak < 2 tahun):\n1. Siapkan alat: infant measuring board (papan ukur bayi)\n2. Posisi anak: terlentang di atas papan ukur\n3. Kepala anak menempel pada bagian fixed di papan ukur\n4. Lutut anak ditekan oleh satu tangan agar lurus\n5. Tumit anak menempel pada bagian bergerak papan ukur\n6. Baca skala dengan presisi 0,1 cm\n\nMengukur Tinggi Badan (anak ≥ 2 tahun):\n1. Siapkan alat: microtoise/stadiometer yang ditempel di dinding\n2. Posisi anak: berdiri tegak, tumit rapat, bokong dan punggung menempel dinding\n3. Kepala posisi Frankfurt Plane (garis horizontal dari tepi bawah orbita ke tragus telinga)\n4. Tarik napas dalam, ukur saat puncak inspirasi\n5. Baca skala dengan presisi 0,1 cm"
+      }
+    },
+    {
+      "chunk_id": "chunk_0039",
+      "text": "Kunjungi segera tenaga kesehatan jika:\n- Berat badan anak tidak naik 2 bulan berturut-turut (T2 di Kartu Menuju Sehat (KMS))\n- Berat badan turun 1 bulan (T di Kartu Menuju Sehat (KMS))\n- Tinggi badan anak jauh di bawah teman sebayanya\n- Anak tampak sangat kurus\n- Anak tampak pucat (anemia)\n- Anak tidak aktif, lesu, tidak mau makan\n- Kaki/tangan anak bengkak (tanda kwashiorkor)",
+      "section": "SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK",
+      "subsection": "D. TANDA PERINGATAN PERTUMBUHAN",
+      "source_file": "stunting_docs.txt",
+      "char_start": 29704,
+      "char_end": 30083,
+      "token_count": 65,
+      "keywords": [
+        "gizi_buruk",
+        "puskesmas",
+        "anemia",
+        "posyandu",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 65,
+        "char_count": 379,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK | D. TANDA PERINGATAN PERTUMBUHAN]\nKunjungi segera tenaga kesehatan jika:\n- Berat badan anak tidak naik 2 bulan berturut-turut (T2 di Kartu Menuju Sehat (KMS))\n- Berat badan turun 1 bulan (T di Kartu Menuju Sehat (KMS))\n- Tinggi badan anak jauh di bawah teman sebayanya\n- Anak tampak sangat kurus\n- Anak tampak pucat (anemia)\n- Anak tidak aktif, lesu, tidak mau makan\n- Kaki/tangan anak bengkak (tanda kwashiorkor)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0040",
+      "text": "Manfaat untuk Bayi:\n1. Proteksi terhadap infeksi: Air Susu Ibu (ASI) mengandung antibodi (Imunoglobulin A (IgA) sekretori), laktoferrin, lisozim, dan sel imun yang melindungi dari infeksi\n2. Nutrisi optimal: komposisi Air Susu Ibu (ASI) berubah sesuai kebutuhan bayi, mengandung asam lemak esensial (Docosahexaenoic Acid (DHA), Arachidonic Acid (ARA)) untuk perkembangan otak\n3. Pencegahan stunting: pemberian Air Susu Ibu (ASI) eksklusif menurunkan risiko stunting secara bermakna\n4. Perkembangan kognitif: Docosahexaenoic Acid (DHA) dalam Air Susu Ibu (ASI) mendukung perkembangan otak dan kecerdasan\n5. Pencegahan alergi dan asma: bayi Air Susu Ibu (ASI) eksklusif risiko lebih rendah\n6. Pencegahan obesitas dan diabetes tipe 2 di kemudian hari\n7. Hubungan emosional (bonding) ibu-bayi yang kuat\n\nManfaat untuk Ibu:\n1. Mengurangi perdarahan pasca persalinan (oksitosin saat menyusui membantu involusi uterus)\n2. Membantu kembali ke berat badan sebelum hamil\n3. Menurunkan risiko kanker payudara dan kanker ovarium\n4. Menurunkan risiko osteoporosis\n5. Kontrasepsi alami (Lactational Amenorrhea Method (LAM): Lactational Amenorrhea Method) jika Air Susu Ibu (ASI) eksklusif, amenore, dan < 6 bulan",
+      "section": "SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI",
+      "subsection": "A. MANFAAT Air Susu Ibu (ASI) EKSKLUSIF",
+      "source_file": "stunting_docs.txt",
+      "char_start": 30180,
+      "char_end": 31378,
+      "token_count": 167,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "asi",
+        "dampak",
+        "ibu_hamil",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 167,
+        "char_count": 1198,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI | A. MANFAAT Air Susu Ibu (ASI) EKSKLUSIF]\nManfaat untuk Bayi:\n1. Proteksi terhadap infeksi: Air Susu Ibu (ASI) mengandung antibodi (Imunoglobulin A (IgA) sekretori), laktoferrin, lisozim, dan sel imun yang melindungi dari infeksi\n2. Nutrisi optimal: komposisi Air Susu Ibu (ASI) berubah sesuai kebutuhan bayi, mengandung asam lemak esensial (Docosahexaenoic Acid (DHA), Arachidonic Acid (ARA)) untuk perkembangan otak\n3. Pencegahan stunting: pemberian Air Susu Ibu (ASI) eksklusif menurunkan risiko stunting secara bermakna\n4. Perkembangan kognitif: Docosahexaenoic Acid (DHA) dalam Air Susu Ibu (ASI) mendukung perkembangan otak dan kecerdasan\n5. Pencegahan alergi dan asma: bayi Air Susu Ibu (ASI) eksklusif risiko lebih rendah\n6. Pencegahan obesitas dan diabetes tipe 2 di kemudian hari\n7. Hubungan emosional (bonding) ibu-bayi yang kuat\n\nManfaat untuk Ibu:\n1. Mengurangi perdarahan pasca persalinan (oksitosin saat menyusui membantu involusi uterus)\n2. Membantu kembali ke berat badan sebelum hamil\n3. Menurunkan risiko kanker payudara dan kanker ovarium\n4. Menurunkan risiko osteoporosis\n5. Kontrasepsi alami (Lactational Amenorrhea Method (LAM): Lactational Amenorrhea Method) jika Air Susu Ibu (ASI) eksklusif, amenore, dan < 6 bulan"
+      }
+    },
+    {
+      "chunk_id": "chunk_0041",
+      "text": "Posisi Menyusui:\n1. Posisi cradle (gendongan): bayi diletakkan di lengan bawah ibu, wajah menghadap ke payudara\n2. Posisi football: bayi dijepit di bawah ketiak ibu seperti bola\n3. Posisi side-lying: ibu dan bayi berbaring miring berhadapan\n4. Posisi semi-reclined: ibu bersandar, bayi telungkup di dada ibu (biological nurturing)\n\nTeknik Perlekatan (Latch) yang Benar:\n- Mulut bayi terbuka lebar\n- Sebagian besar areola (lingkaran hitam di sekitar puting) masuk ke mulut bayi\n- Bibir bawah bayi melipat ke luar\n- Dagu bayi menempel pada payudara\n- Hidung bayi tidak tertekan (bisa bernapas bebas)\n- Terdengar suara menelan, bukan suara mengecap/menyedot\n\nTanda Air Susu Ibu (ASI) Cukup:\n- Bayi menyusu minimal 8-12 kali per 24 jam\n- Bayi tampak puas setelah menyusu\n- Berat badan bayi naik sesuai kurva pertumbuhan\n- Bayi Buang Air Kecil (BAK) minimal 6 kali per 24 jam (popok basah)\n- Buang Air Kecil (BAK) bayi jernih/kuning muda\n- Bayi Buang Air Besar (BAB) sesuai usia (bayi Air Susu Ibu (ASI) eksklusif bisa Buang Air Besar (BAB) sangat sering atau jarang - keduanya bisa normal)",
+      "section": "SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI",
+      "subsection": "B. CARA MENYUSUI YANG BENAR",
+      "source_file": "stunting_docs.txt",
+      "char_start": 31409,
+      "char_end": 32494,
+      "token_count": 177,
+      "keywords": [
+        "asi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 177,
+        "char_count": 1085,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI | B. CARA MENYUSUI YANG BENAR]\nPosisi Menyusui:\n1. Posisi cradle (gendongan): bayi diletakkan di lengan bawah ibu, wajah menghadap ke payudara\n2. Posisi football: bayi dijepit di bawah ketiak ibu seperti bola\n3. Posisi side-lying: ibu dan bayi berbaring miring berhadapan\n4. Posisi semi-reclined: ibu bersandar, bayi telungkup di dada ibu (biological nurturing)\n\nTeknik Perlekatan (Latch) yang Benar:\n- Mulut bayi terbuka lebar\n- Sebagian besar areola (lingkaran hitam di sekitar puting) masuk ke mulut bayi\n- Bibir bawah bayi melipat ke luar\n- Dagu bayi menempel pada payudara\n- Hidung bayi tidak tertekan (bisa bernapas bebas)\n- Terdengar suara menelan, bukan suara mengecap/menyedot\n\nTanda Air Susu Ibu (ASI) Cukup:\n- Bayi menyusu minimal 8-12 kali per 24 jam\n- Bayi tampak puas setelah menyusu\n- Berat badan bayi naik sesuai kurva pertumbuhan\n- Bayi Buang Air Kecil (BAK) minimal 6 kali per 24 jam (popok basah)\n- Buang Air Kecil (BAK) bayi jernih/kuning muda\n- Bayi Buang Air Besar (BAB) sesuai usia (bayi Air Susu Ibu (ASI) eksklusif bisa Buang Air Besar (BAB) sangat sering atau jarang - keduanya bisa normal)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0042",
+      "text": "1. Air Susu Ibu (ASI) Sedikit/Tidak Keluar\n Penyebab: kurang isapan bayi, jarang menyusu, stres, kurang cairan, teknik salah\n Solusi:\n - Susukan lebih sering (supply = demand)\n - Pastikan perlekatan benar\n - Pijat payudara sebelum menyusui\n - Minum cukup (minimal 8 gelas/hari)\n - Istirahat cukup, kelola stres\n - Konsumsi makanan galaktagog (daun katuk, dll)\n - Hubungi konselor laktasi di Puskesmas/RS\n\n2. Puting Lecet/Nyeri\n Penyebab: perlekatan yang salah, jamur (kandidiasis)\n Solusi:\n - Perbaiki teknik perlekatan\n - Oleskan Air Susu Ibu (ASI) perah di puting dan biarkan kering\n - Hindari sabun/alkohol di puting\n - Jika karena jamur, minta pengobatan ke dokter\n\n3. Payudara Bengkak (Engorgement)\n Penyebab: produksi Air Susu Ibu (ASI) banyak, pengosongan tidak optimal\n Solusi:\n - Susukan lebih sering\n - Kompres hangat sebelum menyusui\n - Kompres dingin setelah menyusui\n - Pompa/perah jika bayi tidak bisa mengosongkan\n\n4. Mastitis (Radang Payudara)\n Gejala: payudara merah, panas, nyeri, demam\n Solusi:\n - JANGAN hentikan menyusui (tetap susukan dari payudara yang terkena)\n - Istirahat, kompres hangat\n - Minum antibiotik sesuai resep dokter\n - Segera ke Puskesmas/RS",
+      "section": "SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI",
+      "subsection": "C. MASALAH MENYUSUI DAN SOLUSINYA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 32531,
+      "char_end": 33710,
+      "token_count": 169,
+      "keywords": [
+        "asi",
+        "balita",
+        "puskesmas"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 169,
+        "char_count": 1179,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI | C. MASALAH MENYUSUI DAN SOLUSINYA]\n1. Air Susu Ibu (ASI) Sedikit/Tidak Keluar\n Penyebab: kurang isapan bayi, jarang menyusu, stres, kurang cairan, teknik salah\n Solusi:\n - Susukan lebih sering (supply = demand)\n - Pastikan perlekatan benar\n - Pijat payudara sebelum menyusui\n - Minum cukup (minimal 8 gelas/hari)\n - Istirahat cukup, kelola stres\n - Konsumsi makanan galaktagog (daun katuk, dll)\n - Hubungi konselor laktasi di Puskesmas/RS\n\n2. Puting Lecet/Nyeri\n Penyebab: perlekatan yang salah, jamur (kandidiasis)\n Solusi:\n - Perbaiki teknik perlekatan\n - Oleskan Air Susu Ibu (ASI) perah di puting dan biarkan kering\n - Hindari sabun/alkohol di puting\n - Jika karena jamur, minta pengobatan ke dokter\n\n3. Payudara Bengkak (Engorgement)\n Penyebab: produksi Air Susu Ibu (ASI) banyak, pengosongan tidak optimal\n Solusi:\n - Susukan lebih sering\n - Kompres hangat sebelum menyusui\n - Kompres dingin setelah menyusui\n - Pompa/perah jika bayi tidak bisa mengosongkan\n\n4. Mastitis (Radang Payudara)\n Gejala: payudara merah, panas, nyeri, demam\n Solusi:\n - JANGAN hentikan menyusui (tetap susukan dari payudara yang terkena)\n - Istirahat, kompres hangat\n - Minum antibiotik sesuai resep dokter\n - Segera ke Puskesmas/RS"
+      }
+    },
+    {
+      "chunk_id": "chunk_0043",
+      "text": "Panduan penyimpanan Air Susu Ibu (ASI) perah (ASIP):\n- Suhu ruangan (25°C): 4-6 jam\n- Cooler bag dengan ice gel: 24 jam\n- Kulkas (4°C, bukan pintu): 4-5 hari (hitung dari tanggal perah)\n- Freezer kulkas 1 pintu (-15°C): 2 minggu\n- Freezer kulkas 2 pintu (-18°C): 3-6 bulan\n- Freezer khusus (-20°C atau lebih dingin): 6-12 bulan\n\nCara menghangatkan ASIP:\n- Rendam wadah ASIP dalam air hangat (bukan panas mendidih)\n- Jangan microwave (merusak kandungan nutrisi dan antibodi)\n- Kocok perlahan setelah dicairkan (lemak akan terpisah)",
+      "section": "SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI",
+      "subsection": "D. PENYIMPANAN Air Susu Ibu (ASI) PERAH",
+      "source_file": "stunting_docs.txt",
+      "char_start": 33753,
+      "char_end": 34283,
+      "token_count": 87,
+      "keywords": [
+        "asi",
+        "gizi"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 87,
+        "char_count": 530,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI | D. PENYIMPANAN Air Susu Ibu (ASI) PERAH]\nPanduan penyimpanan Air Susu Ibu (ASI) perah (ASIP):\n- Suhu ruangan (25°C): 4-6 jam\n- Cooler bag dengan ice gel: 24 jam\n- Kulkas (4°C, bukan pintu): 4-5 hari (hitung dari tanggal perah)\n- Freezer kulkas 1 pintu (-15°C): 2 minggu\n- Freezer kulkas 2 pintu (-18°C): 3-6 bulan\n- Freezer khusus (-20°C atau lebih dingin): 6-12 bulan\n\nCara menghangatkan ASIP:\n- Rendam wadah ASIP dalam air hangat (bukan panas mendidih)\n- Jangan microwave (merusak kandungan nutrisi dan antibodi)\n- Kocok perlahan setelah dicairkan (lemak akan terpisah)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0044",
+      "text": "- Napas cepat (> 60 kali/menit) atau lambat (< 30 kali/menit)\n- Tarikan dinding dada ke dalam saat napas\n- Warna kulit biru/kebiruan (sianosis)\n- Kejang\n- Demam (suhu > 37,5°C rektal) atau hipotermia (suhu < 36,5°C)\n- Bayi tidak mau menyusu atau menelan\n- Perut kembung keras\n- Muntah terus menerus (terutama kehijau-hijauan)\n- Tidak Buang Air Kecil (BAK)/Buang Air Besar (BAB) dalam 24 jam pertama\n- Kulit/putih mata sangat kuning dalam 24 jam pertama kelahiran (ikterus patologis)",
+      "section": "SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER",
+      "subsection": "A. TANDA BAHAYA PADA BAYI BARU LAHIR (Segera ke IGD)",
+      "source_file": "stunting_docs.txt",
+      "char_start": 34390,
+      "char_end": 34872,
+      "token_count": 79,
+      "keywords": [
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 79,
+        "char_count": 482,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER | A. TANDA BAHAYA PADA BAYI BARU LAHIR (Segera ke IGD)]\n- Napas cepat (> 60 kali/menit) atau lambat (< 30 kali/menit)\n- Tarikan dinding dada ke dalam saat napas\n- Warna kulit biru/kebiruan (sianosis)\n- Kejang\n- Demam (suhu > 37,5°C rektal) atau hipotermia (suhu < 36,5°C)\n- Bayi tidak mau menyusu atau menelan\n- Perut kembung keras\n- Muntah terus menerus (terutama kehijau-hijauan)\n- Tidak Buang Air Kecil (BAK)/Buang Air Besar (BAB) dalam 24 jam pertama\n- Kulit/putih mata sangat kuning dalam 24 jam pertama kelahiran (ikterus patologis)"
+      }
+    },
+    {
+      "chunk_id": "chunk_0045",
+      "text": "- Tidak sadar atau sulit dibangunkan\n- Kejang\n- Napas cepat atau sesak\n- Tidak mau minum sama sekali\n- Muntah terus-menerus semua yang diminum\n- Tanda-tanda dehidrasi berat: mata cekung, kulit tidak elastis, bibir kering, tidak Buang Air Kecil (BAK) > 8 jam\n- Demam sangat tinggi (> 39°C)\n- Bayi < 2 bulan dengan demam",
+      "section": "SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER",
+      "subsection": "B. TANDA BAHAYA PADA BALITA (Segera ke IGD)",
+      "source_file": "stunting_docs.txt",
+      "char_start": 34919,
+      "char_end": 35237,
+      "token_count": 57,
+      "keywords": [
+        "asi",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 57,
+        "char_count": 318,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER | B. TANDA BAHAYA PADA BALITA (Segera ke IGD)]\n- Tidak sadar atau sulit dibangunkan\n- Kejang\n- Napas cepat atau sesak\n- Tidak mau minum sama sekali\n- Muntah terus-menerus semua yang diminum\n- Tanda-tanda dehidrasi berat: mata cekung, kulit tidak elastis, bibir kering, tidak Buang Air Kecil (BAK) > 8 jam\n- Demam sangat tinggi (> 39°C)\n- Bayi < 2 bulan dengan demam"
+      }
+    },
+    {
+      "chunk_id": "chunk_0046",
+      "text": "- Anak tampak sangat kurus\n- Wajah seperti orang tua (tampak tua)\n- Iga terlihat sangat menonjol\n- Kaki/tangan bengkak (tidak nyeri, pitting edema)\n- Rambut rontok, berubah warna (kemerahan/pirang)\n- Kulit mengelupas, luka, berwarna gelap tidak merata\n- Anak sangat lesu, tidak mau bergerak, tidak menangis",
+      "section": "SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER",
+      "subsection": "C. TANDA GIZI BURUK (Ke Puskesmas hari ini)",
+      "source_file": "stunting_docs.txt",
+      "char_start": 35284,
+      "char_end": 35590,
+      "token_count": 47,
+      "keywords": [
+        "gizi_buruk",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": false,
+        "has_list": true,
+        "word_count": 47,
+        "char_count": 306,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER | C. TANDA GIZI BURUK (Ke Puskesmas hari ini)]\n- Anak tampak sangat kurus\n- Wajah seperti orang tua (tampak tua)\n- Iga terlihat sangat menonjol\n- Kaki/tangan bengkak (tidak nyeri, pitting edema)\n- Rambut rontok, berubah warna (kemerahan/pirang)\n- Kulit mengelupas, luka, berwarna gelap tidak merata\n- Anak sangat lesu, tidak mau bergerak, tidak menangis"
+      }
+    },
+    {
+      "chunk_id": "chunk_0047",
+      "text": "Konsultasikan jika:\n- Berat badan anak tidak naik 2 bulan berturut-turut\n- Tinggi badan anak tidak sesuai kurva pertumbuhan\n- Anak tidak mau makan/pilih-pilih makanan (PICKY EATER) yang memengaruhi pertumbuhan\n- Anak sering sakit (diare/Infeksi Saluran Pernapasan Akut (ISPA) > 3 kali setahun)\n- Ibu hamil dengan Lingkar Lengan Atas (LiLA) < 23,5 cm\n- Ibu hamil dengan kenaikan berat badan tidak sesuai trimester\n- Pertanyaan tentang Makanan Pendamping ASI (MPASI) dan pengenalan makanan baru\n- Masalah menyusui yang tidak teratasi",
+      "section": "SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER",
+      "subsection": "D. KAPAN KONSULTASI KE DOKTER/NAKES UNTUK MASALAH GIZI",
+      "source_file": "stunting_docs.txt",
+      "char_start": 35648,
+      "char_end": 36179,
+      "token_count": 81,
+      "keywords": [
+        "asi",
+        "mpasi",
+        "balita",
+        "ibu_hamil"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": true,
+        "word_count": 81,
+        "char_count": 531,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER | D. KAPAN KONSULTASI KE DOKTER/NAKES UNTUK MASALAH GIZI]\nKonsultasikan jika:\n- Berat badan anak tidak naik 2 bulan berturut-turut\n- Tinggi badan anak tidak sesuai kurva pertumbuhan\n- Anak tidak mau makan/pilih-pilih makanan (PICKY EATER) yang memengaruhi pertumbuhan\n- Anak sering sakit (diare/Infeksi Saluran Pernapasan Akut (ISPA) > 3 kali setahun)\n- Ibu hamil dengan Lingkar Lengan Atas (LiLA) < 23,5 cm\n- Ibu hamil dengan kenaikan berat badan tidak sesuai trimester\n- Pertanyaan tentang Makanan Pendamping ASI (MPASI) dan pengenalan makanan baru\n- Masalah menyusui yang tidak teratasi"
+      }
+    },
+    {
+      "chunk_id": "chunk_0048",
+      "text": "MITOS 1: \"Anak pendek karena faktor keturunan, tidak bisa diubah\"\nFAKTA: Meskipun genetik berperan, stunting terutama disebabkan oleh kekurangan gizi dan infeksi yang DAPAT dicegah. Dengan intervensi gizi yang tepat terutama di 1000 Hari Pertama Kehidupan (HPK), potensi pertumbuhan optimal bisa dicapai.\n\nMITOS 2: \"Kolostrum (Air Susu Ibu (ASI) pertama berwarna kuning) kotor dan harus dibuang\"\nFAKTA: Kolostrum adalah 'vaksin' alami pertama bayi! Kaya antibodi, sel imun, dan faktor pertumbuhan. JANGAN PERNAH dibuang.\n\nMITOS 3: \"Bayi haus, perlu diberi air putih sebelum 6 bulan\"\nFAKTA: Air Susu Ibu (ASI) sudah mengandung 80 % air, cukup untuk memenuhi kebutuhan cairan bayi. Memberi air sebelum 6 bulan berisiko diare dan menurunkan asupan Air Susu Ibu (ASI).\n\nMITOS 4: \"Madu boleh diberikan untuk bayi < 1 tahun untuk memperkuat\"\nFAKTA: Madu TIDAK BOLEH diberikan untuk bayi < 12 bulan karena berisiko botulisme (keracunan bakteri Clostridium botulinum yang mengancam nyawa).\n\nMITOS 5: \"Makanan Pendamping ASI (MPASI) pisang atau bubur beras sudah cukup untuk bayi\"\nFAKTA: Pisang dan bubur beras miskin protein dan zat besi. Makanan Pendamping ASI (MPASI) harus lengkap mengandung protein hewani, sayuran, dan lemak sehat di samping karbohidrat.",
+      "section": "SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI",
+      "subsection": "A. MITOS DAN FAKTA TENTANG STUNTING DAN GIZI ANAK",
+      "source_file": "stunting_docs.txt",
+      "char_start": 36278,
+      "char_end": 37529,
+      "token_count": 186,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "asi",
+        "mpasi",
+        "gizi_ibu_hamil",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 186,
+        "char_count": 1251,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI | A. MITOS DAN FAKTA TENTANG STUNTING DAN GIZI ANAK]\nMITOS 1: \"Anak pendek karena faktor keturunan, tidak bisa diubah\"\nFAKTA: Meskipun genetik berperan, stunting terutama disebabkan oleh kekurangan gizi dan infeksi yang DAPAT dicegah. Dengan intervensi gizi yang tepat terutama di 1000 Hari Pertama Kehidupan (HPK), potensi pertumbuhan optimal bisa dicapai.\n\nMITOS 2: \"Kolostrum (Air Susu Ibu (ASI) pertama berwarna kuning) kotor dan harus dibuang\"\nFAKTA: Kolostrum adalah 'vaksin' alami pertama bayi! Kaya antibodi, sel imun, dan faktor pertumbuhan. JANGAN PERNAH dibuang.\n\nMITOS 3: \"Bayi haus, perlu diberi air putih sebelum 6 bulan\"\nFAKTA: Air Susu Ibu (ASI) sudah mengandung 80 % air, cukup untuk memenuhi kebutuhan cairan bayi. Memberi air sebelum 6 bulan berisiko diare dan menurunkan asupan Air Susu Ibu (ASI).\n\nMITOS 4: \"Madu boleh diberikan untuk bayi < 1 tahun untuk memperkuat\"\nFAKTA: Madu TIDAK BOLEH diberikan untuk bayi < 12 bulan karena berisiko botulisme (keracunan bakteri Clostridium botulinum yang mengancam nyawa).\n\nMITOS 5: \"Makanan Pendamping ASI (MPASI) pisang atau bubur beras sudah cukup untuk bayi\"\nFAKTA: Pisang dan bubur beras miskin protein dan zat besi. Makanan Pendamping ASI (MPASI) harus lengkap mengandung protein hewani, sayuran, dan lemak sehat di samping karbohidrat."
+      }
+    },
+    {
+      "chunk_id": "chunk_0049",
+      "text": "karena berisiko botulisme (keracunan bakteri Clostridium botulinum yang mengancam nyawa). MITOS 5: \"Makanan Pendamping ASI (MPASI) pisang atau bubur beras sudah cukup untuk bayi\" FAKTA: Pisang dan bubur beras miskin protein dan zat besi. Makanan Pendamping ASI (MPASI) harus lengkap mengandung protein hewani, sayuran, dan lemak sehat di samping karbohidrat.\n\nMITOS 6: \"Anak gemuk berarti sehat dan gizi baik\"\nFAKTA: Anak bisa gemuk tapi stunting (short and obese) - kondisi ini justru lebih berisiko penyakit kronis. Kesehatan dinilai dari pertumbuhan sesuai kurva, bukan semata penampilan.\n\nMITOS 7: \"Susu formula lebih baik dari Air Susu Ibu (ASI) karena kandungan gizinya lengkap dan bisa diukur\"\nFAKTA: Air Susu Ibu (ASI) jauh lebih unggul dari susu formula. Air Susu Ibu (ASI) mengandung lebih dari 1.000 komponen bioaktif yang tidak bisa ditiru formula, termasuk antibodi dan faktor pertumbuhan hidup.\n\nMITOS 8: \"Tablet tambah darah membuat mual, lebih baik tidak diminum\"\nFAKTA: Mual adalah efek samping yang bisa diatasi dengan minum Tablet Tambah Darah (TTD) malam sebelum tidur, setelah makan. Manfaat Tablet Tambah Darah (TTD) jauh lebih besar dari efek sampingnya.",
+      "section": "SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI",
+      "subsection": "A. MITOS DAN FAKTA TENTANG STUNTING DAN GIZI ANAK",
+      "source_file": "stunting_docs.txt",
+      "char_start": 37170,
+      "char_end": 38347,
+      "token_count": 176,
+      "keywords": [
+        "stunting",
+        "gizi",
+        "asi",
+        "dampak",
+        "intervensi_spesifik",
+        "mpasi",
+        "gizi_ibu_hamil",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 176,
+        "char_count": 1177,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI | A. MITOS DAN FAKTA TENTANG STUNTING DAN GIZI ANAK]\nkarena berisiko botulisme (keracunan bakteri Clostridium botulinum yang mengancam nyawa). MITOS 5: \"Makanan Pendamping ASI (MPASI) pisang atau bubur beras sudah cukup untuk bayi\" FAKTA: Pisang dan bubur beras miskin protein dan zat besi. Makanan Pendamping ASI (MPASI) harus lengkap mengandung protein hewani, sayuran, dan lemak sehat di samping karbohidrat.\n\nMITOS 6: \"Anak gemuk berarti sehat dan gizi baik\"\nFAKTA: Anak bisa gemuk tapi stunting (short and obese) - kondisi ini justru lebih berisiko penyakit kronis. Kesehatan dinilai dari pertumbuhan sesuai kurva, bukan semata penampilan.\n\nMITOS 7: \"Susu formula lebih baik dari Air Susu Ibu (ASI) karena kandungan gizinya lengkap dan bisa diukur\"\nFAKTA: Air Susu Ibu (ASI) jauh lebih unggul dari susu formula. Air Susu Ibu (ASI) mengandung lebih dari 1.000 komponen bioaktif yang tidak bisa ditiru formula, termasuk antibodi dan faktor pertumbuhan hidup.\n\nMITOS 8: \"Tablet tambah darah membuat mual, lebih baik tidak diminum\"\nFAKTA: Mual adalah efek samping yang bisa diatasi dengan minum Tablet Tambah Darah (TTD) malam sebelum tidur, setelah makan. Manfaat Tablet Tambah Darah (TTD) jauh lebih besar dari efek sampingnya."
+      }
+    },
+    {
+      "chunk_id": "chunk_0050",
+      "text": "Q: Berapa normal tinggi badan anak usia 2 tahun?\nA: Rata-rata tinggi badan anak 2 tahun adalah sekitar 87-88 cm untuk laki-laki dan 85-86 cm untuk perempuan (median standar WHO). Rentang normal adalah antara -2 Standar Deviasi (SD) hingga +2 Standar Deviasi (SD) dari median.\n\nQ: Bagaimana cara mengetahui anak saya stunting?\nA: Cara paling akurat adalah mengukur tinggi/panjang badan anak kemudian membandingkan dengan standar WHO berdasarkan usia dan jenis kelamin anak. Kader Posyandu dan petugas Puskesmas dapat membantu pengukuran dan penilaian.\n\nQ: Apakah stunting bisa disembuhkan?\nA: Intervensi paling efektif adalah PENCEGAHAN di 1000 Hari Pertama Kehidupan (HPK). Setelah anak melewati usia 2 tahun, perbaikan tinggi badan akibat stunting sangat terbatas karena lempeng pertumbuhan sudah mulai menutup. Namun, intervensi tetap penting untuk mencegah dampak lebih lanjut pada perkembangan kognitif dan kesehatan.\n\nQ: Apakah anak saya perlu suplemen vitamin?\nA: Untuk anak yang mendapat makan seimbang dan bergizi, suplemen tambahan tidak selalu diperlukan. Suplemen yang direkomendasikan program pemerintah adalah Vitamin A (Februari dan Agustus) dan Zinc saat diare. Konsultasikan dengan dokter/ahli gizi jika anak Anda picky eater atau pertumbuhannya tidak optimal.",
+      "section": "SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI",
+      "subsection": "B. PERTANYAAN UMUM ORANG TUA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 38380,
+      "char_end": 39656,
+      "token_count": 181,
+      "keywords": [
+        "puskesmas",
+        "stunting",
+        "gizi",
+        "asi",
+        "dampak",
+        "intervensi_spesifik",
+        "posyandu",
+        "balita"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 181,
+        "char_count": 1276,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "nasional",
+        "display_text": "[Sumber: SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI | B. PERTANYAAN UMUM ORANG TUA]\nQ: Berapa normal tinggi badan anak usia 2 tahun?\nA: Rata-rata tinggi badan anak 2 tahun adalah sekitar 87-88 cm untuk laki-laki dan 85-86 cm untuk perempuan (median standar WHO). Rentang normal adalah antara -2 Standar Deviasi (SD) hingga +2 Standar Deviasi (SD) dari median.\n\nQ: Bagaimana cara mengetahui anak saya stunting?\nA: Cara paling akurat adalah mengukur tinggi/panjang badan anak kemudian membandingkan dengan standar WHO berdasarkan usia dan jenis kelamin anak. Kader Posyandu dan petugas Puskesmas dapat membantu pengukuran dan penilaian.\n\nQ: Apakah stunting bisa disembuhkan?\nA: Intervensi paling efektif adalah PENCEGAHAN di 1000 Hari Pertama Kehidupan (HPK). Setelah anak melewati usia 2 tahun, perbaikan tinggi badan akibat stunting sangat terbatas karena lempeng pertumbuhan sudah mulai menutup. Namun, intervensi tetap penting untuk mencegah dampak lebih lanjut pada perkembangan kognitif dan kesehatan.\n\nQ: Apakah anak saya perlu suplemen vitamin?\nA: Untuk anak yang mendapat makan seimbang dan bergizi, suplemen tambahan tidak selalu diperlukan. Suplemen yang direkomendasikan program pemerintah adalah Vitamin A (Februari dan Agustus) dan Zinc saat diare. Konsultasikan dengan dokter/ahli gizi jika anak Anda picky eater atau pertumbuhannya tidak optimal."
+      }
+    },
+    {
+      "chunk_id": "chunk_0051",
+      "text": "kesehatan. Q: Apakah anak saya perlu suplemen vitamin? A: Untuk anak yang mendapat makan seimbang dan bergizi, suplemen tambahan tidak selalu diperlukan. Suplemen yang direkomendasikan program pemerintah adalah Vitamin A (Februari dan Agustus) dan Zinc saat diare. Konsultasikan dengan dokter/ahli gizi jika anak Anda picky eater atau pertumbuhannya tidak optimal.\n\nQ: Bagaimana memilih ikan yang aman untuk anak?\nA: Pilih ikan air tawar dan ikan laut berukuran kecil-sedang yang rendah merkuri: ikan bandeng, kembung, kerapu, salmon, sarden, tuna kaleng (dalam jumlah wajar). Hindari ikan berukuran besar predator puncak yang tinggi merkuri: ikan hiu, ikan todak, makarel besar.\n\nDOKUMEN INI DISUSUN UNTUK KEPERLUAN PENGEMBANGAN SISTEM RAG CHATBOT STUNTING\nKOTA KENDARI - SULAWESI TENGGARA\nVersi: 1.0 | Tanggal: 2024",
+      "section": "SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI",
+      "subsection": "B. PERTANYAAN UMUM ORANG TUA",
+      "source_file": "stunting_docs.txt",
+      "char_start": 0,
+      "char_end": 817,
+      "token_count": 117,
+      "keywords": [
+        "puskesmas",
+        "stunting",
+        "gizi",
+        "asi",
+        "intervensi_spesifik",
+        "balita",
+        "kendari"
+      ],
+      "metadata": {
+        "has_numbers": true,
+        "has_list": false,
+        "word_count": 117,
+        "char_count": 817,
+        "language": "id",
+        "domain": "stunting_health",
+        "location": "kendari_sultra",
+        "display_text": "[Sumber: SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI | B. PERTANYAAN UMUM ORANG TUA]\nkesehatan. Q: Apakah anak saya perlu suplemen vitamin? A: Untuk anak yang mendapat makan seimbang dan bergizi, suplemen tambahan tidak selalu diperlukan. Suplemen yang direkomendasikan program pemerintah adalah Vitamin A (Februari dan Agustus) dan Zinc saat diare. Konsultasikan dengan dokter/ahli gizi jika anak Anda picky eater atau pertumbuhannya tidak optimal.\n\nQ: Bagaimana memilih ikan yang aman untuk anak?\nA: Pilih ikan air tawar dan ikan laut berukuran kecil-sedang yang rendah merkuri: ikan bandeng, kembung, kerapu, salmon, sarden, tuna kaleng (dalam jumlah wajar). Hindari ikan berukuran besar predator puncak yang tinggi merkuri: ikan hiu, ikan todak, makarel besar.\n\nDOKUMEN INI DISUSUN UNTUK KEPERLUAN PENGEMBANGAN SISTEM RAG CHATBOT STUNTING\nKOTA KENDARI - SULAWESI TENGGARA\nVersi: 1.0 | Tanggal: 2024"
+      }
+    }
+  ]
+}

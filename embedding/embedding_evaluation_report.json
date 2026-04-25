@@ -1,0 +1,484 @@
+{
+  "intrinsic": {
+    "norm_mean": 0.9999999973627004,
+    "norm_std": 4.0711334214885615e-08,
+    "norm_min": 0.9999999152792988,
+    "norm_max": 1.0000000729368332,
+    "is_normalized": true,
+    "emb_mean": 2.689349617348392e-05,
+    "emb_std": 0.051031029086925125,
+    "emb_min": -0.2151910364627838,
+    "emb_max": 0.2006521373987198,
+    "uniformity_loss": -2.145184436752337,
+    "token_min": 8,
+    "token_max": 394,
+    "token_mean": 114.01492537313433,
+    "token_std": 73.54793188591997,
+    "short_chunks": 1
+  },
+  "coherence": {
+    "intra_mean": 0.5692978120806987,
+    "intra_std": 0.14927209001713584,
+    "inter_mean": 0.41152940554008133,
+    "inter_std": 0.14778431021350966,
+    "separation_ratio": 1.3833709193479526,
+    "cosine_max": 0.9064415172538675,
+    "cosine_mean": 0.41545399276745987
+  },
+  "section_coherence": {
+    "SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF": {
+      "n_chunks": 4,
+      "avg_sim": 0.5763719324374502,
+      "std_sim": 0.06471231137337971
+    },
+    "Referensi Ilmiah - Vitamin dan Mineral": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA": {
+      "n_chunks": 4,
+      "avg_sim": 0.5478015342600139,
+      "std_sim": 0.10258425848624705
+    },
+    "Referensi Ilmiah - Gizi Ibu Hamil": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER": {
+      "n_chunks": 4,
+      "avg_sim": 0.5422734733791917,
+      "std_sim": 0.08254114400488856
+    },
+    "SEKSI 3: FAKTOR RISIKO STUNTING": {
+      "n_chunks": 5,
+      "avg_sim": 0.5935906983974311,
+      "std_sim": 0.10955694777143453
+    },
+    "SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI": {
+      "n_chunks": 2,
+      "avg_sim": 0.796512645116198,
+      "std_sim": 0.0
+    },
+    "Referensi Ilmiah - Penelitian Indonesia": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Intervensi Efektif": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI": {
+      "n_chunks": 4,
+      "avg_sim": 0.5959195753547636,
+      "std_sim": 0.19188724204398322
+    },
+    "Referensi Ilmiah - Kehamilan Remaja": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Pemantauan Pertumbuhan": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Tatalaksana Gizi Buruk": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK": {
+      "n_chunks": 4,
+      "avg_sim": 0.47838342106544135,
+      "std_sim": 0.09502699986479837
+    },
+    "Referensi Ilmiah - MPASI": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Prevalensi dan Epidemiologi": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - 1000 HPK": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI": {
+      "n_chunks": 4,
+      "avg_sim": 0.47503533564449735,
+      "std_sim": 0.19929094874376285
+    },
+    "Referensi Ilmiah - Faktor Risiko": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI": {
+      "n_chunks": 3,
+      "avg_sim": 0.5063422446433568,
+      "std_sim": 0.1400891176088683
+    },
+    "Referensi Ilmiah - Zinc dan Diare": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING": {
+      "n_chunks": 2,
+      "avg_sim": 0.6648807191132736,
+      "std_sim": 0.0
+    },
+    "Referensi Ilmiah - NTT dan Daerah Terpencil": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Dampak Stunting": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Sanitasi dan WASH": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Stunting Lokal Sulawesi Tenggara": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Gizi Seimbang": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Posyandu dan Komunitas": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Kebijakan Nasional": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Panduan Klinis": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 2: PREVALENSI STUNTING DI INDONESIA DAN KOTA KENDARI": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI": {
+      "n_chunks": 3,
+      "avg_sim": 0.8262971280461061,
+      "std_sim": 0.05782875251634544
+    },
+    "Referensi Ilmiah - Program Indonesia": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Kemenkes Program": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - Imunisasi": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "SEKSI 4: DAMPAK STUNTING": {
+      "n_chunks": 2,
+      "avg_sim": 0.6214495653181149,
+      "std_sim": 0.0
+    },
+    "Referensi Ilmiah - Definisi dan Standar": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    },
+    "Referensi Ilmiah - ASI dan Menyusui": {
+      "n_chunks": 1,
+      "avg_sim": null,
+      "std_sim": null
+    }
+  },
+  "geometry": {
+    "dims_total": 384,
+    "dims_80pct": 20,
+    "dims_90pct": 31,
+    "dims_95pct": 41,
+    "isotropy": 1.9721522630525295e-31,
+    "pc_variance_top5": [
+      0.16919356375327294,
+      0.09847240898468997,
+      0.07766842839610233,
+      0.06157798987183534,
+      0.05176295202680739
+    ],
+    "compression_ratio_90pct": 0.08072916666666667
+  },
+  "duplicates": {
+    "threshold": 0.95,
+    "total_pairs": 2211,
+    "n_duplicates": 0
+  },
+  "duplicate_pairs": [],
+  "retrieval_aggregate": {
+    "avg_P@1": 0.6923076923076923,
+    "avg_R@1": 0.6538461538461539,
+    "avg_NDCG@1": 0.6923076923076923,
+    "avg_P@3": 0.6153846153846154,
+    "avg_R@3": 1.7307692307692308,
+    "avg_NDCG@3": 0.7779343994434968,
+    "avg_P@5": 0.46153846153846156,
+    "avg_R@5": 2.1538461538461537,
+    "avg_NDCG@5": 0.8154398211149108,
+    "MRR": 0.7826340326340326,
+    "chunk_hit@3": 1.0
+  },
+  "retrieval_per_query": [
+    {
+      "query": "apa itu stunting dan bagaimana definisinya",
+      "relevant_sections": [
+        "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 0.6666666666666666,
+      "R@3": 2.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.4,
+      "R@5": 2.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": true
+    },
+    {
+      "query": "berapa prevalensi stunting di Kota Kendari",
+      "relevant_sections": [
+        "SEKSI 2: PREVALENSI STUNTING DI INDONESIA DAN KOTA KENDARI",
+        "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI"
+      ],
+      "P@1": 1.0,
+      "R@1": 0.5,
+      "NDCG@1": 1.0,
+      "P@3": 1.0,
+      "R@3": 1.5,
+      "NDCG@3": 1.0,
+      "P@5": 0.8,
+      "R@5": 2.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": true
+    },
+    {
+      "query": "apa faktor risiko yang menyebabkan stunting pada anak",
+      "relevant_sections": [
+        "SEKSI 3: FAKTOR RISIKO STUNTING"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 0.6666666666666666,
+      "R@3": 2.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.4,
+      "R@5": 2.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "dampak stunting terhadap perkembangan kognitif dan kecerdasan anak",
+      "relevant_sections": [
+        "SEKSI 4: DAMPAK STUNTING"
+      ],
+      "P@1": 0.0,
+      "R@1": 0.0,
+      "NDCG@1": 0.0,
+      "P@3": 0.3333333333333333,
+      "R@3": 1.0,
+      "NDCG@3": 0.5,
+      "P@5": 0.2,
+      "R@5": 1.0,
+      "NDCG@5": 0.5,
+      "MRR": 0.3333333333333333,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "intervensi gizi spesifik untuk mencegah stunting",
+      "relevant_sections": [
+        "SEKSI 5: PENCEGAHAN STUNTING - INTERVENSI SPESIFIK GIZI"
+      ],
+      "P@1": 0.0,
+      "R@1": 0.0,
+      "NDCG@1": 0.0,
+      "P@3": 0.6666666666666666,
+      "R@3": 2.0,
+      "NDCG@3": 0.6934264036172708,
+      "P@5": 0.4,
+      "R@5": 2.0,
+      "NDCG@5": 0.6934264036172708,
+      "MRR": 0.5,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "program pencegahan stunting sensitif di tingkat komunitas",
+      "relevant_sections": [
+        "SEKSI 6: PENCEGAHAN STUNTING - INTERVENSI SENSITIF"
+      ],
+      "P@1": 0.0,
+      "R@1": 0.0,
+      "NDCG@1": 0.0,
+      "P@3": 0.0,
+      "R@3": 0.0,
+      "NDCG@3": 0.0,
+      "P@5": 0.4,
+      "R@5": 2.0,
+      "NDCG@5": 0.5012658353418871,
+      "MRR": 0.25,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "layanan penanganan stunting di puskesmas Kendari",
+      "relevant_sections": [
+        "SEKSI 7: PENANGANAN STUNTING DI KOTA KENDARI"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 1.0,
+      "R@3": 3.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.6,
+      "R@5": 3.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "kebutuhan gizi ibu hamil untuk mencegah stunting",
+      "relevant_sections": [
+        "SEKSI 8: GIZI IBU HAMIL DAN MENYUSUI"
+      ],
+      "P@1": 0.0,
+      "R@1": 0.0,
+      "NDCG@1": 0.0,
+      "P@3": 0.0,
+      "R@3": 0.0,
+      "NDCG@3": 0.0,
+      "P@5": 0.0,
+      "R@5": 0.0,
+      "NDCG@5": 0.0,
+      "MRR": 0.09090909090909091,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "kapan waktu pemberian MPASI dan makanan pendamping ASI",
+      "relevant_sections": [
+        "SEKSI 9: Makanan Pendamping ASI (MPASI) DAN POLA MAKAN BALITA"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 1.0,
+      "R@3": 3.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.8,
+      "R@5": 4.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "cara memantau pertumbuhan tinggi badan anak balita",
+      "relevant_sections": [
+        "SEKSI 10: PEMANTAUAN PERTUMBUHAN ANAK"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 0.6666666666666666,
+      "R@3": 2.0,
+      "NDCG@3": 0.9197207891481876,
+      "P@5": 0.6,
+      "R@5": 3.0,
+      "NDCG@5": 0.9060254355346823,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "manfaat ASI eksklusif untuk mencegah stunting",
+      "relevant_sections": [
+        "SEKSI 11: Air Susu Ibu (ASI) EKSKLUSIF DAN MENYUSUI"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 0.3333333333333333,
+      "R@3": 1.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.2,
+      "R@5": 1.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "tanda bahaya stunting yang harus segera dibawa ke dokter",
+      "relevant_sections": [
+        "SEKSI 12: TANDA BAHAYA DAN KAPAN HARUS KE DOKTER"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 1.0,
+      "R@3": 3.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.8,
+      "R@5": 4.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    },
+    {
+      "query": "mitos dan fakta tentang gizi anak dan stunting",
+      "relevant_sections": [
+        "SEKSI 13: INFORMASI TAMBAHAN DAN MITOS GIZI"
+      ],
+      "P@1": 1.0,
+      "R@1": 1.0,
+      "NDCG@1": 1.0,
+      "P@3": 0.6666666666666666,
+      "R@3": 2.0,
+      "NDCG@3": 1.0,
+      "P@5": 0.4,
+      "R@5": 2.0,
+      "NDCG@5": 1.0,
+      "MRR": 1.0,
+      "hit@3_chunk": null
+    }
+  ],
+  "coverage": {
+    "total_chunks": 67,
+    "main_chunks": 42,
+    "ref_chunks": 25,
+    "n_sections": 38
+  }
+}

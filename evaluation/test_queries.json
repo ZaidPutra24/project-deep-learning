@@ -1,0 +1,83 @@
+[
+  {
+    "query_id": "q001",
+    "question": "Apa itu stunting dan bagaimana cara mendeteksinya?",
+    "relevant_sections": [
+      "SEKSI 1: DEFINISI DAN KONSEP DASAR STUNTING"
+    ],
+    "ground_truth": "Stunting adalah kondisi gagal tumbuh pada anak balita akibat kekurangan gizi kronis, ditandai tinggi badan di bawah -2 SD dari median WHO."
+  },
+  {
+    "query_id": "q002",
+    "question": "Kapan MPASI diberikan kepada bayi?",
+    "relevant_sections": [
+      "SEKSI 5: PEMBERIAN MAKAN BAYI DAN ANAK"
+    ],
+    "ground_truth": "MPASI diberikan saat bayi berusia 6 bulan genap, tidak lebih cepat dan tidak lebih lambat."
+  },
+  {
+    "query_id": "q003",
+    "question": "Manfaat ASI eksklusif untuk pencegahan stunting",
+    "relevant_sections": [
+      "SEKSI 5: PEMBERIAN MAKAN BAYI DAN ANAK"
+    ],
+    "ground_truth": "ASI eksklusif menurunkan risiko stunting hingga 30-40% dan melindungi anak dari infeksi."
+  },
+  {
+    "query_id": "q004",
+    "question": "Penyebab stunting pada anak balita",
+    "relevant_sections": [
+      "SEKSI 2: FAKTOR PENYEBAB DAN RISIKO STUNTING"
+    ],
+    "ground_truth": "Penyebab stunting meliputi kurang gizi, infeksi berulang, sanitasi buruk, dan pola asuh tidak optimal."
+  },
+  {
+    "query_id": "q005",
+    "question": "Cara pemantauan pertumbuhan anak di posyandu",
+    "relevant_sections": [
+      "SEKSI 6: DETEKSI DINI DAN PEMANTAUAN PERTUMBUHAN"
+    ],
+    "ground_truth": "Pemantauan dilakukan melalui penimbangan dan pengukuran tinggi badan setiap bulan di Posyandu."
+  },
+  {
+    "query_id": "q006",
+    "question": "Kebutuhan gizi ibu hamil untuk mencegah stunting",
+    "relevant_sections": [
+      "SEKSI 4: GIZI IBU HAMIL DAN MENYUSUI"
+    ],
+    "ground_truth": "Ibu hamil membutuhkan tambahan energi, protein, zat besi (TTD 90 tablet), asam folat, dan kalsium."
+  },
+  {
+    "query_id": "q007",
+    "question": "Dampak stunting jangka panjang pada anak",
+    "relevant_sections": [
+      "SEKSI 3: DAMPAK STUNTING"
+    ],
+    "ground_truth": "Stunting menyebabkan IQ lebih rendah, produktivitas menurun, dan risiko penyakit kronis saat dewasa."
+  },
+  {
+    "query_id": "q008",
+    "question": "Makanan bergizi lokal untuk bayi stunting di Kendari",
+    "relevant_sections": [
+      "SEKSI 8: INTERVENSI DAN PROGRAM PENANGGULANGAN STUNTING"
+    ],
+    "ground_truth": "Daun kelor, ikan, telur, tempe, hati ayam adalah sumber gizi lokal terbaik untuk balita."
+  },
+  {
+    "query_id": "q009",
+    "question": "Program pemerintah untuk menanggulangi stunting",
+    "relevant_sections": [
+      "SEKSI 8: INTERVENSI DAN PROGRAM PENANGGULANGAN STUNTING"
+    ],
+    "ground_truth": "Program meliputi PMT, TTD remaja, BPNT, STBM, dan Perpres 72/2021 percepatan penurunan stunting."
+  },
+  {
+    "query_id": "q010",
+    "question": "Hubungan anemia ibu hamil dengan stunting",
+    "relevant_sections": [
+      "SEKSI 4: GIZI IBU HAMIL DAN MENYUSUI",
+      "SEKSI 2: FAKTOR PENYEBAB DAN RISIKO STUNTING"
+    ],
+    "ground_truth": "Anemia ibu hamil meningkatkan risiko BBLR dan stunting karena defisiensi zat besi mengganggu pertumbuhan janin."
+  }
+]
